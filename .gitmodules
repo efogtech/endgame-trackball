@@ -1,0 +1,6 @@
+[submodule "endgame-trackball-firmware"]
+	path = endgame-trackball-firmware
+	url = git@github.com:efogtech/endgame-trackball-firmware.git
+[submodule "endgame-trackball-hardware"]
+	path = endgame-trackball-hardware
+	url = git@github.com:efogtech/endgame-trackball-hardware.git
