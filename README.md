@@ -3,14 +3,14 @@
 Features:
 1. Wireless (BLE) or wired (Type-C)
 2. Twist-to-scroll as well as drag scroll (both high resolution)
-3. Guaranteed 250 Hz polling rate, up to 450 Hz when the sensors feel like it 
-4. 8 buttons with magnetically attachable "keycaps"
-5. Supported ball size: 52-55mm
-6. Ball Transfer Units (BTU) or static bearings (hot swap with an adapter)
-7. Up to 1500 mAh (102550 size) battery with 3 pin 1.0 mm connector
-8. Fast charging (up to 15W) with QC and PD support
-9. Backlight (white), underglow (RGB)
-10. Two rotary encoders 
+3. Ultra low profile and compact design
+4. Guaranteed 250 Hz polling rate, up to 450 Hz when the sensors feel like it 
+5. 8 buttons with magnetically attachable keycaps, 2 rotary encoders
+6. 52-55mm supported ball size
+7. Ball Transfer Units (BTU) or static bearings (hot swap with an adapter)
+8. Up to 1500 mAh (102550 size) battery with 3 pin 1.0 mm connector
+9. Fast charging (up to 15W) with QC and PD support
+10. Backlight (white), underglow (RGB)
 
 ## Demo
 
