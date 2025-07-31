@@ -12,7 +12,7 @@ Features:
 9. Fast charging (up to 15W) with QC and PD support
 10. Backlight (white), underglow (RGB)
 
-## Demo
+## Demo (more in [gallery](./GALLERY.md))
 
 ![20250728_060028](https://github.com/user-attachments/assets/34a6d464-b352-43d1-8576-2fcf0d073f17)
 
