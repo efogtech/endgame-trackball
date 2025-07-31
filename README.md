@@ -3,7 +3,7 @@
 Features:
 1. Wireless (BLE) or wired (Type-C)
 2. Twist-to-scroll as well as drag scroll (both high resolution)
-3. Ultra low profile and compact design
+3. Low profile and compact travel-friendly design
 4. Guaranteed 250 Hz polling rate, up to 450 Hz when the sensors feel like it 
 5. 8 buttons with magnetically attachable keycaps, 2 rotary encoders
 6. Supported ball size: from 50.8 mm (2 inches) to 55 mm
