@@ -31,9 +31,9 @@ Features:
 | MR63ZZ bearing                   | 2   |                                                                      |
 | BTU (optional)                   | 3   | Bosch Rexroth (R0530108), Veichu 11 (with adapter)                   |
 | Static bearings (optional)       | 3   | 3 mm, Si3N4 (Silicon Nitride) recommended                            |
-| Magnet 4x2                       | 50  |                                                                      |
 | Heat-set inserts, M2\*3.5*2.5    | 16  | 3 more for static bearings adapters                                  |
-| M2 screw, ISO7380, 4 mm          | 16  |                                                                      |
+| Magnet 4x2                       | 50  |                                                                      |
+| M2 screw, 4 mm                   | 16  | ISO7380                                                              |
 | M2 screw, 6 mm (optional)        | 3   | required for static bearings                                         |
 | Rubber foot                      | 4   | 0.5 mm thickness                                                     |
 
