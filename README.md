@@ -32,9 +32,10 @@ Features:
 | Static bearings (optional)       | 3   | 3 mm, Si3N4 (Silicon Nitride) recommended                            |
 | Rubber foot                      | 4   | 0.5 mm thickness                                                     |
 | Trackball                        | 1   | From 50.8 mm to 55 mm                                                |
-| Magnet 4x2                       | 52  |                                                                      |
-| Heat-set inserts, M2\*3.5*2.5    | 16  | 3 more if static bearings are used                                   |
+| Magnet 4x2                       | 50  |                                                                      |
+| Heat-set inserts, M2\*3.5*2.5    | 16  | 3 more required for static bearings                                  |
 | M2 screw, ISO7380, 4 mm          | 16  |                                                                      |
+| M2 screw, 6 mm (optional)        | 3   | required for static bearings                                         |
 
 ## FAQ
 
