@@ -32,7 +32,7 @@ Features:
 | BTU (optional)                   | 3   | Bosch Rexroth (R0530108), Veichu 11 (with adapter)                   |
 | Static bearings (optional)       | 3   | 3 mm, Si3N4 (Silicon Nitride) recommended                            |
 | Magnet 4x2                       | 50  |                                                                      |
-| Heat-set inserts, M2\*3.5*2.5    | 16  | 3 more required for static bearings                                  |
+| Heat-set inserts, M2\*3.5*2.5    | 16  | 3 more for static bearings adapters                                  |
 | M2 screw, ISO7380, 4 mm          | 16  |                                                                      |
 | M2 screw, 6 mm (optional)        | 3   | required for static bearings                                         |
 | Rubber foot                      | 4   | 0.5 mm thickness                                                     |
