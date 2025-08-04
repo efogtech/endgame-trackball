@@ -29,7 +29,7 @@ Features:
 | Rubber foot                      | 4   | 0.5 mm thickness                                                     |
 | Trackball                        | 1   | From 50.8 mm to 55 mm                                                |
 | Magnet 4x2                       | 52  |                                                                      |
-| Heat-set inserts, M2*3.5*2.5     | 16  | 3 more if static bearings are used                                   |
+| Heat-set inserts, M2\*3.5*2.5    | 16  | 3 more if static bearings are used                                   |
 | M2 screw, ISO7380, 4 mm          | 16  |                                                                      |
 
 ## Demo (more in [gallery](./GALLERY.md))
