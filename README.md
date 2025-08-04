@@ -13,6 +13,25 @@ Features:
 10. Backlight (white), underglow (RGB)
 11. Vibration motor for feedback 
 
+## BOM
+
+| Name                             | Qty | Note                                                                 |
+|----------------------------------|-----|----------------------------------------------------------------------|
+| Endgame Trackball PCB            | 1   |                                                                      |
+| Rotary encoder knob/wheel        | 2   | SLA printed, Siraya Tech Blu biocompatible resin                     |
+| Rotary encoder guide             | 1   | SLA printed part for assembly                                        |
+| FPC, 150 mm                      | 2   | Pitch 0.5 mm, 8 pin                                                  |
+| FPC, 100 mm                      | 2   | Pitch 0.5 mm, 8 pin                                                  |
+| PMW3610 and lens                 | 2   |                                                                      |
+| MR63ZZ bearing                   | 2   |                                                                      |
+| BTU (optional)                   | 3   | Bosch Rexroth (R0530108), Veichu 11 (with adapter)                   |
+| Static bearings (optional)       | 3   | 3 mm, Si3N4 (Silicon Nitride) recommended                            |
+| Rubber foot                      | 4   | 0.5 mm thickness                                                     |
+| Trackball                        | 1   | From 50.8 mm to 55 mm                                                |
+| Magnet 4x2                       | 52  |                                                                      |
+| Heat-set inserts, M2*3.5*2.5     | 16  | 3 more if static bearings are used                                   |
+| M2 screw, ISO7380, 4 mm          | 16  |                                                                      |
+
 ## Demo (more in [gallery](./GALLERY.md))
 
 ![20250728_060028](https://github.com/user-attachments/assets/34a6d464-b352-43d1-8576-2fcf0d073f17)
