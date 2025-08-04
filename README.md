@@ -47,4 +47,4 @@ Coming soon.
 
 ## Support
 
-If you enjoy the project and want to support me or/and Ukraine, here's my ko-fi: https://ko-fi.com/efogdev
+If you enjoy the project and want to support me or/and Ukraine, [here's my ko-fi](https://ko-fi.com/efogdev)!
