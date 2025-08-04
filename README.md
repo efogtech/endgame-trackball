@@ -13,6 +13,10 @@ Features:
 10. Backlight (white), underglow (RGB)
 11. Vibration motor for feedback 
 
+## Demo (more in [gallery](./GALLERY.md))
+
+![20250728_060028](https://github.com/user-attachments/assets/34a6d464-b352-43d1-8576-2fcf0d073f17)
+
 ## BOM
 
 | Name                             | Qty | Note                                                                 |
@@ -32,7 +36,10 @@ Features:
 | Heat-set inserts, M2\*3.5*2.5    | 16  | 3 more if static bearings are used                                   |
 | M2 screw, ISO7380, 4 mm          | 16  |                                                                      |
 
-## Demo (more in [gallery](./GALLERY.md))
+## FAQ
 
-![20250728_060028](https://github.com/user-attachments/assets/34a6d464-b352-43d1-8576-2fcf0d073f17)
+Coming soon.
 
+## Troubleshooting
+
+Coming soon.
