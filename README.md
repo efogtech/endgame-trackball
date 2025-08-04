@@ -22,14 +22,14 @@ Features:
 | Name                             | Qty | Note                                                                 |
 |----------------------------------|-----|----------------------------------------------------------------------|
 | Endgame Trackball PCB            | 1   |                                                                      |
-| Trackball                        | 1   | From 50.8 mm to 55 mm                                                |
+| Trackball                        | 1   | 50.8 mm to 55 mm                                                     |
 | PMW3610 and lens                 | 2   |                                                                      |
 | Rotary encoder knob (wheel)      | 2   | SLA printed, Siraya Tech Blu biocompatible resin                     |
 | Rotary encoder guide             | 1   | SLA printed part for assembly                                        |
-| FPC, 150 mm                      | 2   | Pitch 0.5 mm, 8 pin                                                  |
-| FPC, 100 mm                      | 2   | Pitch 0.5 mm, 8 pin                                                  |
+| FPC, 150 mm                      | 2   | 0.5 mm pitch, 8 pin                                                  |
+| FPC, 100 mm                      | 2   | 0.5 mm pitch, 8 pin                                                  |
 | MR63ZZ bearing                   | 2   |                                                                      |
-| BTU (optional)                   | 3   | Bosch Rexroth (R0530108), Veichu 11 (with adapter)                   |
+| BTU (optional)                   | 3   | BOSCH Rexroth (R0530108), Veichu VCN310 (with adapter)               |
 | Static bearing (optional)        | 3   | 3 mm, Si3N4 (Silicon Nitride) recommended                            |
 | Heat-set insert, M2\*3.5*2.5     | 16  | 3 more for static bearings adapters                                  |
 | Magnet 4x2                       | 50  |                                                                      |
