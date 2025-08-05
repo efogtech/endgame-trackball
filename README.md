@@ -39,7 +39,7 @@ Features:
 
 ## Roadmap
 
-| Feature                       | Ready | Note |
+| Feature                       |       | Note |
 |-------------------------------|-------|------|
 | Wireless connectivity         | ✅    |      |
 | Wired connectivity            | ✅    |      |
