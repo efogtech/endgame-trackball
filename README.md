@@ -37,6 +37,23 @@ Features:
 | M2 screw, 6 mm (optional)        | 3   | required for static bearings                                         |
 | Rubber foot                      | 4   | 0.5 mm thickness                                                     |
 
+## Roadmap
+
+| Feature                       | Ready | Note |
+|-------------------------------|-------|------|
+| Wireless connectivity         | ✅    |      |
+| Wired connectivity            | ✅    |      |
+| High polling rate (USB/BLE)   | ✅    |      |
+| Buttons configuration         | ✅    |      |
+| Rotary encoders configuration | ✅    | not supported in ZMK Studio |
+| Twist scroll                  | ⚠️    | tested only with high resolution scroll |
+| Drag scroll                   | ✅    |      |
+| Backlight                     | ✅    |      |
+| RGB                           | ✅    |      |
+| Vibration                     | ⚠️    | only as feedback for sensitivity cycler |
+| Fast charging                 | ⏳    | planned |
+| Sleep                         | ⏳    | planned |
+
 ## FAQ
 
 Coming soon.
