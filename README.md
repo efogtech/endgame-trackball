@@ -51,7 +51,7 @@ Features:
 | Backlight                     | ✅    |      |
 | RGB                           | ✅    |      |
 | Vibration                     | ⚠️    | only as feedback for sensitivity cycler |
-| Fast charging                 | ⏳    | planned |
+| Fast charging                 | ⚠️    | PD works, QC planned |
 | Sleep                         | ⏳    | planned |
 
 ## FAQ
