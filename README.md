@@ -22,6 +22,7 @@ Features:
 | Name                             | Qty | Note                                                                 |
 |----------------------------------|-----|----------------------------------------------------------------------|
 | Endgame Trackball PCB            | 1   |                                                                      |
+| 3.7V battery                     | 1   | up to 102550, 3 pin 1.0 mm pitch, 1st pin negative                   |
 | Trackball                        | 1   | 50.8 mm to 55 mm                                                     |
 | PMW3610 and lens                 | 2   |                                                                      |
 | Rotary encoder knob (wheel)      | 2   | SLA printed, Siraya Tech Blu biocompatible resin                     |
