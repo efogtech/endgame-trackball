@@ -53,6 +53,7 @@ Features:
 | RGB                           | ✅    |      |
 | Vibration                     | ⚠️    | only as feedback for sensitivity cycler |
 | Fast charging                 | ⚠️    | PD works, BC/QC planned |
+| Runtime rate limiting         | ⏳    | planned |
 | Sleep                         | ⏳    | planned |
 
 ## FAQ
