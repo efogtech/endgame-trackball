@@ -4,3 +4,6 @@
 [submodule "endgame-trackball-hardware"]
 	path = endgame-trackball-hardware
 	url = git@github.com:efogtech/endgame-trackball-hardware.git
+[submodule "endgame-trackball-3d-models"]
+	path = endgame-trackball-3d-models
+	url = git@github.com:efogtech/endgame-trackball-3d-models.git
