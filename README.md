@@ -45,15 +45,15 @@ Features:
 | Wireless connectivity         | ✅    |      |
 | Wired connectivity            | ✅    |      |
 | High polling rate (USB/BLE)   | ✅    |      |
+| Runtime rate limiting         | ⏳    | planned |
 | Buttons configuration         | ✅    |      |
 | Rotary encoders configuration | ⚠️    | not supported in ZMK Studio |
 | Twist scroll                  | ✅    | tested only with high resolution scroll so far |
 | Drag scroll                   | ✅    |      |
+| Fast charging                 | ⚠️    | PD works, BC/QC planned |
 | Backlight                     | ✅    |      |
 | RGB                           | ✅    |      |
 | Vibration                     | ⚠️    | only as feedback for sensitivity cycler |
-| Fast charging                 | ⚠️    | PD works, BC/QC planned |
-| Runtime rate limiting         | ⏳    | planned |
 | Sleep                         | ⏳    | planned |
 
 ## FAQ
