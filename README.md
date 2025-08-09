@@ -47,7 +47,7 @@ Features:
 | High polling rate (USB/BLE)   | ✅    |      |
 | Buttons configuration         | ✅    |      |
 | Rotary encoders configuration | ✅    | not supported in ZMK Studio |
-| Twist scroll                  | ⚠️    | tested only with high resolution scroll |
+| Twist scroll                  | ✅    | tested only with high resolution scroll so far |
 | Drag scroll                   | ✅    |      |
 | Backlight                     | ✅    |      |
 | RGB                           | ✅    |      |
