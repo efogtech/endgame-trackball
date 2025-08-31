@@ -10,8 +10,7 @@ Features:
 7. Ball Transfer Units (BTU) or static bearings (hot swap with an adapter)
 8. Up to 1500 mAh (102550 size) battery with 3 pin 1.0 mm connector
 9. Fast charging (up to 15W) with QC and PD support
-10. Backlight (white), underglow (RGB)
-11. Vibration motor for feedback 
+10. RGB underglow and vibration motor for feedback 
 
 ## Demo (more in [gallery](./GALLERY.md))
 
@@ -51,10 +50,9 @@ Features:
 | Twist scroll                  | ✅    | tested only with high resolution scroll so far |
 | Drag scroll                   | ✅    |      |
 | Fast charging                 | ⚠️    | PD works, BC/QC planned |
-| Backlight                     | ✅    |      |
 | RGB                           | ✅    |      |
-| Vibration                     | ⚠️    | only as feedback for sensitivity cycler |
-| Sleep                         | ⏳    | planned |
+| Vibration                     | ⚠️    | only as feedback for sensitivity cycler so far |
+| Sleep                         | ✅    |      |
 
 ## FAQ
 
