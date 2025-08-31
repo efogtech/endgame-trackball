@@ -49,9 +49,9 @@ Features:
 | Rotary encoders configuration | ⚠️    | not supported in ZMK Studio |
 | Twist scroll                  | ✅    | tested only with high resolution scroll so far |
 | Drag scroll                   | ✅    |      |
-| Fast charging                 | ⚠️    | PD works, BC/QC planned |
+| Fast charging                 | ⏳    | PD works, BC/QC planned |
 | RGB                           | ✅    |      |
-| Vibration                     | ⚠️    | only as feedback for sensitivity cycler so far |
+| Vibration                     | ⏳    | only as feedback for sensitivity cycler |
 | Sleep                         | ✅    |      |
 
 ## FAQ
