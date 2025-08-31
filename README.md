@@ -30,7 +30,7 @@ Features:
 | FPC, 100 mm                      | 2   | 0.5 mm pitch, 8 pin                                                  |
 | MR63ZZ bearing                   | 2   |                                                                      |
 | BTU (optional)                   | 3   | BOSCH Rexroth (R0530108), Veichu VCN310 (with adapter)               |
-| Static bearing (optional)        | 3   | 3 mm, Si3N4 (Silicon Nitride) recommended                            |
+| Static bearing (optional)        | 3   | 3 mm, Si3N4                                                          |
 | Heat-set insert, M2\*3.5*2.5     | 15  |                                                                      |
 | Magnet 4x2                       | 40  |                                                                      |
 | M2 screw, 4 mm                   | 16  | ISO7380                                                              |
