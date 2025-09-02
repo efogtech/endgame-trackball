@@ -44,7 +44,7 @@ Features:
 | Wireless connectivity         | ✅    |      |
 | Wired connectivity            | ✅    |      |
 | High polling rate (USB/BLE)   | ✅    |      |
-| Runtime rate limiting         | ⏳    | planned |
+| Runtime rate limiting         | ✅    |      |
 | Buttons configuration         | ✅    |      |
 | Rotary encoders configuration | ⚠️    | not supported in ZMK Studio |
 | Twist scroll                  | ✅    | tested only with high resolution scroll so far |
