@@ -51,7 +51,7 @@ Features:
 | Drag scroll                   | ✅    |      |
 | Fast charging                 | ⏳    | PD works, BC/QC planned |
 | RGB                           | ✅    |      |
-| Vibration                     | ⏳    | only as feedback for sensitivity cycler |
+| Vibration                     | ⏳    | limited usefulness as of now |
 | Sleep                         | ✅    |      |
 
 ## FAQ
