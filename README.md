@@ -12,6 +12,10 @@ Features:
 9. Fast charging (up to 15W) with QC and PD support
 10. RGB underglow and vibration motor for feedback 
 
+## Demo (more in [gallery](./GALLERY.md))
+
+![20250728_060028](https://github.com/user-attachments/assets/f433f68a-cfca-4bec-8bcd-85bc274544f8)
+
 ## Note
 
 I obviously have no control over how people refer to the device.  
@@ -20,10 +24,6 @@ Although, considering the hardly searchable name, I'd like to give a recommendat
 My "brand" would be "efog.tech" — both the name and the website URL.  
 Accordingly, the device is "efog.tech Endgame Trackball".  
 <sub>Or maybe "EfogTech Endgame \[Trackball\]" if you have that particular kind of OCD.</sub> 
-
-## Demo (more in [gallery](./GALLERY.md))
-
-![20250728_060028](https://github.com/user-attachments/assets/f433f68a-cfca-4bec-8bcd-85bc274544f8)
 
 ## BOM
 
