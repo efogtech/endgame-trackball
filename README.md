@@ -55,12 +55,12 @@ Accordingly, the device is "efog.tech Endgame Trackball".
 | High polling rate (USB/BLE)   | ✅    |      |
 | Runtime rate limiting         | ✅    |      |
 | Buttons configuration         | ✅    |      |
-| Rotary encoders configuration | ⚠️    | not supported in ZMK Studio |
+| Rotary encoders configuration | ⚠️    | not supported in ZMK Studio, planned with no timeframe |
 | Twist scroll                  | ✅    | tested only with high resolution scroll so far |
 | Drag scroll                   | ✅    |      |
 | Fast charging                 | ⏳    | PD works, BC/QC planned |
 | RGB                           | ✅    |      |
-| Vibration                     | ⏳    | limited usefulness as of now |
+| Vibration                     | ✅    |      |
 | Sleep                         | ✅    |      |
 
 ## FAQ
