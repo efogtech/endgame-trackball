@@ -12,7 +12,7 @@ Features:
 9. Fast charging (up to 15W) with QC and PD support
 10. RGB underglow and vibration motor for feedback 
 
-## Demo (more in [gallery](./GALLERY.md))
+## Demo (more in [gallery](./GALLERY.md) and on [the website](https://efog.tech/docs/colors))
 
 ![20250728_060028](https://github.com/user-attachments/assets/f433f68a-cfca-4bec-8bcd-85bc274544f8)
 
