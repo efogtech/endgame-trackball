@@ -151,8 +151,11 @@ Now, place the motherboard onto the bottom part in the way that the cables do no
 Screw down the motherboard, and install the vibration motor. Almost done!
 
 ### Testing
-Now it a good moment to test your assembly — connect the battery cable, and then connect the USB cable.
-You should see a new pointer device in your system.
+Now is a great moment to test your assembly — connect the battery cable, and then connect the USB cable. You should see a new input device in your system.
+
+> [!TIP]
+> Please be aware that the motherboard will not get powered after connecting the battery.
+> It is required to connect USB power to "bootstrap" the power distribution chip.  
 
 ### Final steps
 Anyway, let's install the shell! Visually line up the holes and the knobs, then slide the shell onto the bottom part.
