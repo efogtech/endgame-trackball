@@ -116,6 +116,9 @@ Keep in mind: the one with the short cable goes to the right side.
 Put a sensor board on its place, screw it down while holding it gently from the top side (so it stays in its lower position). 
 Do that with the second one. That's it! Please refer to the photos to see orientation.
 
+> [!CAUTION]
+> The photo shows bearings already installed. This is incorrect. You SHOULD NOT install bearings until the device is fully assembled.
+
 ![cab-orient](./images/assembly/cab-orient.jpg)
 
 ### Sacrifice
