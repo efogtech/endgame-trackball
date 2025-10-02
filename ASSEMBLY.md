@@ -130,7 +130,7 @@ Remove those with any method available. You don't need the thing to be perfectly
 ![loose2](./images/assembly/loose2.png)
 
 Now that you've done that, place both daughter boards on their place (they just slide in), line up the holes, and screw them down, but not fully.
-Just a few rotations would be enough for now. Please follow the photos to see which way cables go.
+Just a few rotations would be enough for now. 
 
 Push the cable beneath the sensor board, then screw it down slightly, just to fix in place.
 Then move to the second one, which is a little bit more tricky — you will need to bend both cables
