@@ -126,6 +126,9 @@ Next step will require a sacrifice. Don't worry, none of your blood will be spil
 Take the bottom part and locate the sacrificial layer — loose plastic strings beneath the holes for the bearings.
 Remove those with any method available. You don't need the thing to be perfectly clean, just don't leave loose plastic.
 
+![loose1](./images/assembly/loose1.png)
+![loose2](./images/assembly/loose2.png)
+
 Now that you've done that, place both daughter boards on their place (they just slide in), line up the holes, and screw them down, but not fully.
 Just a few rotations would be enough for now. Please follow the photos to see which way cables go.
 
