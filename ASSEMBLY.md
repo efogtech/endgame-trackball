@@ -140,7 +140,9 @@ Be careful — when pulling it out, do not apply any force sideways! Pull strict
 
 Now, take ball bearings, knobs and the "fixture" part. 
 Install the bearings onto the knobs, and then verify your positioning: install the knobs and try them. 
-If you don't hear satisfying clicks, repeat the positioning procedure.
+If you don't hear satisfying clicks, repeat the positioning procedure.  
+Here's video of the full process:
+[/video/assembly/knobs.mp4](./video/assembly/knobs.mp4)
 
 ### Motherboard
 Next, push cable pairs into the appropriate slots in the motherboard.
