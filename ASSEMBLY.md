@@ -160,6 +160,9 @@ Screw down the motherboard, and install the vibration motor. Almost done!
 
 ### Testing
 Now is a great moment to test your assembly — connect the battery cable, and then connect the USB cable. You should see a new input device in your system.
+Make sure it looks like this: 
+
+![final-step](./images/assembly/final-step.jpg)
 
 > [!TIP]
 > Please be aware that the motherboard will not get powered after connecting the battery.
