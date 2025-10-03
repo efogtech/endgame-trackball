@@ -107,9 +107,12 @@ Now, we need to make a 10-15 minutes pause before continuing, to allow the glue 
 Let's move forward — take the flat printed cables and scissors.
 You want to cut the contact area to leave ~2 mm — and if you're worried, try to install a cable into either of connectors.
 You will see that the actual useful area is very small.
-Do that with all the cables, and install them into the daughter boards, with contact side "looking" at you.
+Do that with all the cables, and install them into the daughter boards, **with the contact side "looking" at you**.
+
+![cable](./images/assembly/cable.jpg)
+
 The short FPC goes into one of the sensors — it will be the right one.
-Also take your marker and mark the other side of the sensor cables.
+Also, take your marker and mark the other side of the sensor cables.
 
 ### Installing sensors
 Keep in mind: the one with the short cable goes to the right side.
