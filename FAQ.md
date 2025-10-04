@@ -20,3 +20,23 @@ Please see the <a href="https://zmk.dev/docs/config/settings#clearing-persisted-
 <summary>What is the default keymap?</summary>
 You will find the keymap description at the <a href="https://github.com/efogtech/endgame-trackball/tree/main?tab=readme-ov-file#default-keymap">root README</a>.
 </details>
+
+<details>
+<summary>Can I disable twist scroll?</summary>
+Yes, but it's not possible with ZMK Studio at the moment, you need to add this to your keymap: 
+  
+```diff
+--- config/efogtech_trackball_0.keymap
++++ config/efogtech_trackball_0.keymap
+@@ -1,5 +1,10 @@
+     trackball {
++	       default {
++	           layers = <DEFAULT>;
++	           input-processors = <&zip_scroll_scaler 0 1>;
++        };
++
+         scroll {
+             layers = <LAYER_SCROLL>;
+             input-processors = <&zip_xy_scaler SCROLL_MULTIPLIER SCROLL_DIVISOR>, <&zip_axis_clamper>,
+```
+</details>
