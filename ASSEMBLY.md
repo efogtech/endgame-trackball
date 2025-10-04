@@ -184,3 +184,7 @@ Here's what to do: place a bearing onto the side hole and push it inside with th
 You can not scratch the bearing because it's harder.
 Now that it's inside, take a screw and tighten it from the bottom. Great!
 Install your bearings of choice and keycaps — you're good to go!
+
+### Use the device!
+[Here's the default keymap](https://github.com/efogtech/endgame-trackball?tab=readme-ov-file#default-keymap). 
+You can install [ZMK Studio](https://zmk.studio/download) to reconfigure it, or just go ahead with using it as is. 
