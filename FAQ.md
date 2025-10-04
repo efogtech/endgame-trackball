@@ -40,3 +40,10 @@ Yes, but it's not possible with ZMK Studio at the moment, you need to add this t
              input-processors = <&zip_xy_scaler SCROLL_MULTIPLIER SCROLL_DIVISOR>, <&zip_axis_clamper>,
 ```
 </details>
+
+<details>
+<summary>Twist scroll is getting triggered unintentionally, anything I can do?</summary>
+  
+Yes — open the keymap, scroll to the very end, then either decrease `twist-interference-thres` or increase `twist-thres` (or both). 
+</details>
+
