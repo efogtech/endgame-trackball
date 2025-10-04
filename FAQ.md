@@ -1,6 +1,6 @@
 <details>
 <summary>How to restart the device?</summary>
-Press a button on the back of the device (next to the USB port).
+Press the button on the back of the device (next to the USB port).
 </details>
 
 <details>
