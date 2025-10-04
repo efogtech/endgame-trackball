@@ -17,8 +17,7 @@ Features:
 ![20250728_060028](https://github.com/user-attachments/assets/f433f68a-cfca-4bec-8bcd-85bc274544f8)
 
 ## Default keymap
-
-<img width="640" height="901" alt="image" src="https://github.com/user-attachments/assets/115a63dd-927b-42d1-9a14-0b083705311e" />
+<img width="1019" height="1433" alt="image" src="https://github.com/user-attachments/assets/ebd90b19-f67b-476b-aada-9e1eebda6d00" />
 
 ## Note
 
