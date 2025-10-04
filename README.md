@@ -67,12 +67,10 @@ Accordingly, the device is "efog.tech Endgame Trackball".
 | Sleep                         | ✅    |      |
 
 ## FAQ
-
-Coming soon.
+Please see [FAQ.md](./FAQ.md).
 
 ## Troubleshooting
-
-Coming soon.
+Please see [firmware thoubleshooting](https://github.com/efogtech/endgame-trackball-firmware/?tab=readme-ov-file#troubleshooting).
 
 ## Support
 
