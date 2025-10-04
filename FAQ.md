@@ -30,11 +30,11 @@ Yes, but it's not possible with ZMK Studio at the moment, you need to add this t
 +++ config/efogtech_trackball_0.keymap
 @@ -1,5 +1,10 @@
      trackball {
-+	       default {
-+	           layers = <DEFAULT>;
-+	           input-processors = <&zip_scroll_scaler 0 1>;
++        default {
++            layers = <DEFAULT>;
++            input-processors = <&zip_scroll_scaler 0 1>;
 +        };
-+
+
          scroll {
              layers = <LAYER_SCROLL>;
              input-processors = <&zip_xy_scaler SCROLL_MULTIPLIER SCROLL_DIVISOR>, <&zip_axis_clamper>,
