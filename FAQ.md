@@ -12,6 +12,11 @@ Wait for it to eject itself. That's it!
 </details>
 
 <details>
+<summary>Will firmware update change my keymap?</summary>
+No, if you've made at least one change to your keymap via ZMK Studio, new firmware will not overwrite your settings.
+</details>
+
+<details>
 <summary>How to reset all the settings to defaults?</summary>
 Please see the <a href="https://zmk.dev/docs/config/settings#clearing-persisted-setting">corresponding section</a> of ZMK docs.
 </details>
