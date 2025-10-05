@@ -12,7 +12,11 @@ Okay, so you've got your package box. What now? First things first, let's see wh
 5) Flat printed cables — three long and one short.
 6) Two sets of PMW3610 sensor and it's lens.
    
-...and the rest of small things: a vibration motor, two ball bearings, three static bearings, magnets, heat-set inserts, M2 screws, rubber feet, a hex key and a tube of glue. If you are among first 100 customers, you will also have two separate breakout boards for the sensors. Those in the panel cannot be used in such a case.
+...and the rest of small things: a vibration motor, two ball bearings, three static bearings, magnets, heat-set inserts, M2 screws, rubber feet, a hex key and a tube of glue. 
+
+
+> [!NOTE]
+> If you are among first 100 customers, you will also have two separate breakout boards for the sensors. **Those in the panel cannot be used in such a case. Please throw them to the trash.** 
 
 ### Required from your side
 1) A soldering iron, flux and solder.
