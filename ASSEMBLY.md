@@ -16,7 +16,8 @@ Okay, so you've got your package box. What now? First things first, let's see wh
 
 
 > [!NOTE]
-> If you are among first 100 customers, you will also have two separate breakout boards for the sensors. **Those in the panel cannot be used in such a case. Please throw them to the trash.** 
+> If you are among first 100 customers, you will also have two separate breakout boards for the sensors.  
+> **Those in the panel cannot be used in such a case. Please throw them to the trash.** 
 
 ### Required from your side
 1) A soldering iron, flux and solder.
