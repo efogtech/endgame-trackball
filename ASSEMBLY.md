@@ -186,7 +186,7 @@ Now is a great moment to test your assembly. Make sure it looks like this:
 Connect the battery cable, and then connect the USB cable. You should see a new input device in your system.
 
 > [!TIP]
-> Please be aware that the motherboard will not get powered after connecting the battery.
+> Please be aware that the motherboard will not get powered after connecting the battery.  
 > It is required to connect USB power to "bootstrap" the power distribution chip.  
 
 ### Final steps
