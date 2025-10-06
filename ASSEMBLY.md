@@ -126,8 +126,8 @@ Put a sensor board on its place, screw it down while holding it gently from the 
 Do that with the second one. That's it! Please refer to the photos to see orientation.
 
 > [!CAUTION]
-> The photo shows bearings already installed. This is incorrect.
-> You SHOULD NOT install any bearings until the device is fully assembled.
+> The photo shows bearings already installed. This is incorrect.  
+> You SHOULD NOT install any bearings until the device is fully assembled.  
 
 ![cab-orient](./images/assembly/cab-orient.jpg)
 
