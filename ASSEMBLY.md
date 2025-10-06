@@ -170,7 +170,7 @@ Make sure that the motor does not touch the "floor" (bottom surface); it should 
 ### Testing
 
 > [!NOTE]
-> In this photo, a cable is trapped beneath the PCB where the fourth screw should go.
+> In this photo, a cable is trapped beneath the PCB where the fourth screw should go.  
 > This is incorrect — ensure the PCB sits flush and no cables obstruct the screw hole.
 
 Now is a great moment to test your assembly. Make sure it looks like this: 
