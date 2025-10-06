@@ -117,8 +117,9 @@ Do that with all the cables, and install them into the daughter boards, **with t
 
 ![cable](./images/assembly/cable.jpg)
 
-The short FPC goes into one of the sensors — it will be the right one.
-Also, take your marker and mark the other side of the sensor cables.
+The short FPC goes into one of the sensors — it will be the right one.  
+Also, take your marker and mark the other side of the sensor cables.  
+Don't skip this step as future you may regret such a decision.
 
 ### Installing sensors
 Keep in mind: the one with the short cable goes to the right side.
@@ -159,7 +160,8 @@ You want blue stiff part of the cable to "look" at you while doing that.
 
 ![fpc](./images/assembly/fpc.jpg)
 
-Connect the cables, and fix them in place.
+Connect the cables, and fix them in place. Cables of the sensors are going straight, those for the rotary encoders go diagonally. Luckily, you have the sensor cables marked!  
+
 Make sure your knobs are installed.
 Now, place the motherboard onto the bottom part in the way that the cables do not interfere with the plastic features.
 Screw down the motherboard, and install the vibration motor. Almost done!
