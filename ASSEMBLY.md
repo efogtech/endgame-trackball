@@ -109,6 +109,12 @@ You're done with the magnets! You can take the glue away, you won't need it anym
 Now, you need to make a 10-15 minutes pause before continuing, to allow the glue to harden a little.
 
 ### Cables
+
+> [!CAUTION]
+> Inserting a sensor cable in a wrong way will be fatal for the sensor.  
+> Please ensure all your cables are installed identically, with the contact side on top.  
+> Again — **any flat printed cable must be installed in the way displayed on the photo below**.
+
 Let's move on — take the flat printed cables and scissors.
 You want to cut the contact area to leave ~2 mm — and if you're worried, try to install a cable into one of the connectors.
 You will see that the actual useful area is very small.
