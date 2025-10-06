@@ -73,9 +73,10 @@ Take the motherboard — we're going to solder down your microswitches and insta
 Now, please be extremely careful while soldering microswitches. Almost every pad has a bunch of micro passives near it.
 It's really easy to desolder one or several, ask me how I know. Admittedly, a big oversight from my side.
 Desoldering may or may not be fatal — if it's a capacitor, you lose just hardware debounce functionality.
-If it's a resistor, the button is dead, and you need either solder a new resistor, or short the pads.
-Now, keeping that in mind, do the job. Silkscreen will guide you in terms of how to install switches.
-Here goes the vibration motor too — red is plus, blue is minus, and you have silkscreen hints over there.
+If it's a resistor, the button is dead, and you need either solder a new resistor, or short the pads.  
+
+Now, keeping that in mind, do the job. Silkscreen will guide you in terms of how to install switches.  
+Here goes the vibration motor too — red is plus, blue is minus, and you have silkscreen hints over there.  
 Let's clean up and move forward. You can turn your soldering iron off now.
 
 ### Gluing
@@ -86,28 +87,26 @@ Make sure it sits flush and pour just a little bit of glue on both sides.
 
 ![sens-glue](./images/assembly/sens-glue.jpg)
 
-Now, please be careful, either do that in midair, or get something to put under the sensor.
-You see, there are some rods stick out of the IC at the bottom, and if you place the board onto a flat surface, your lens will push itself off.
-After that, let the sensor boards rest 10-15 minutes. But put something beneath anyway.
+Now, please be careful, either do that in midair, or get something to put under the sensor — you see, there are plastic rods sticking out of the IC at the bottom, and if you place the board onto a flat surface, your lens will push itself off. After applying glue, let the sensor boards rest 10-15 minutes. But put something beneath anyway.
 
 ### Magnets
-Take all your magnets and make a single rod out of them.  Now, take your marker and mark one of the tower sides.
-Always (literally) keep this side on the top, it will allow you to keep the polarity right.
+Take all your magnets and make a single rod (tower) out of them.  Now, take your marker and mark one of the tower sides.
+Always (literally) keep this side on top, it will allow you to keep the polarity right.
 
-Apply the glue to all the buttons.
+Apply glue to all the buttons.
 Note that you don't need to pour glue, you just want to leave a little ...glue mark?
 By the way, the glue is not instantaneous and takes 10-20 minutes to harden.
 
 Now, there are two options. Either take magnets one by one, keeping the polarity right, and place them into slots,
 or just insert the whole tower into a slot and then move it sideways. Then, apply downward force to the magnet.
 
-Okay, so we're done with the buttons, let's proceed with the shell now. Place it on a flat hard surface.
+Okay, so you're done with the buttons, let's proceed with the shell now. Place it onto a flat hard surface.
 The procedure is the same, you keep your polarity mark at the top, and install magnets one by one.
-There is one important thing to keep in mind — if you're using the tower method, make sure to NEVER pull it up, only move sideways.
+There is one important thing to keep in mind — if you're using the tower method, make sure to NEVER pull the tower up, only move it sideways.
 Otherwise, you will bend the button and... well that's bad.
 
-We're done with the magnets! You can take the glue away, we won't need it anymore.
-Now, we need to make a 10-15 minutes pause before continuing, to allow the glue harden a little.
+You're done with the magnets! You can take the glue away, you won't need it anymore.
+Now, you need to make a 10-15 minutes pause before continuing, to allow the glue to harden a little.
 
 ### Cables
 Let's move forward — take the flat printed cables and scissors.
@@ -117,17 +116,18 @@ Do that with all the cables, and install them into the daughter boards, **with t
 
 ![cable](./images/assembly/cable.jpg)
 
-The short FPC goes into one of the sensors — it will be the right one.  
+The short FPC goes into one of the sensors — it will go to the right side.  
 Also, take your marker and mark the other side of the sensor cables.  
 Don't skip this step as future you may regret such a decision.
 
 ### Installing sensors
 Keep in mind: the one with the short cable goes to the right side.
-Put a sensor board on its place, screw it down while holding it gently from the top side (so it stays in its lower position). 
+Put a sensor board on its place, screw it down while holding it gently from the top side (so it stays in its lowest position). 
 Do that with the second one. That's it! Please refer to the photos to see orientation.
 
 > [!CAUTION]
-> The photo shows bearings already installed. This is incorrect. You SHOULD NOT install bearings until the device is fully assembled.
+> The photo shows bearings already installed. This is incorrect.
+> You SHOULD NOT install any bearings until the device is fully assembled.
 
 ![cab-orient](./images/assembly/cab-orient.jpg)
 
@@ -139,17 +139,16 @@ Remove those with any method available. You don't need the thing to be perfectly
 ![loose1](./images/assembly/loose1.png)
 ![loose2](./images/assembly/loose2.png)
 
-Now that you've done that, place both daughter boards on their place (they just slide in), line up the holes, and screw them down, but not fully.
-Just a few rotations would be enough for now. 
+Now that you've done that, place both daughter boards on their place (they just slide in), 
+line up the holes, and screw them down, but not fully. Just a few rotations will be enough for now. 
 
-Push the cable beneath the sensor board, then screw it down slightly, just to fix in place.
-Then move to the second one, which is a little bit more tricky — you will need to bend both cables
-to install them in the same manner — encoder cable goes beneath the sensor board.
-Next, take the "guide" part. You should put it into the encoder, and then tighten the board.
-Be careful — when pulling it out, do not apply any force sideways! Pull strictly vertically.
+Push one of the cables beneath the according sensor board. Proceed with the second one.  
+Next, take the "guide" part. You should put it into the encoder, and then tighten the board.  
+Be careful — when pulling it out, do not apply any force sideways! Pull strictly vertically.  
 
 Now, take ball bearings, knobs and the "fixture" part. 
-Install the bearings onto the knobs, and then verify your positioning: install the knobs and try them. 
+Install the bearings onto the knobs — should be possible without the fixture, 
+but it's there for you, and then verify your positioning: install the knobs and try them.  
 If you don't hear satisfying clicks, repeat the positioning procedure.  
 Here's video of the full process:
 [/video/assembly/knobs.mp4](./video/assembly/knobs.mp4)
@@ -160,11 +159,13 @@ You want blue stiff part of the cable to "look" at you while doing that.
 
 ![fpc](./images/assembly/fpc.jpg)
 
-Connect the cables, and fix them in place. Cables of the sensors are going straight, those for the rotary encoders go diagonally. Luckily, you have the sensor cables marked!  
+Connect the cables, and fix them in place. Cables for the sensors go straight, those for the rotary encoders go diagonally.  
+Luckily, you have the sensor cables marked!  
 
-Make sure your knobs are installed.
-Now, place the motherboard onto the bottom part in the way that the cables do not interfere with the plastic features.
-Screw down the motherboard, and install the vibration motor. Almost done!
+Make sure your knobs are installed.  
+Now, place the motherboard onto the bottom part in the way that the cables do not interfere with the plastic features.  
+Screw down the motherboard, and install the vibration motor — remove the peel and place the motor onto the vertical feature sticking out on the left side of the bottom part.
+Make sure that the motor does not touch the "floor" (bottom surface), it should have at least 1 mm clearance. Almost done!  
 
 ### Testing
 Now is a great moment to test your assembly. Make sure it looks like this: 
@@ -190,7 +191,7 @@ Install the rubber feet with the help of the visual guiding features.
 Now, the last step — take your adapters for static bearings.
 Here's what to do: place a bearing onto the side hole and push it inside with the hex key.
 You can not scratch the bearing because it's harder.
-Now that it's inside, take a screw and tighten it from the bottom. Great!
+Now that it's inside, take a screw and tighten it from the bottom, while keeping the side hole upward to keep the ball from moving sideways. 
 Install your bearings of choice and keycaps — you're good to go!
 
 ### Use the device!
