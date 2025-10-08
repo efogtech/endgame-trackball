@@ -14,7 +14,6 @@ Okay, so you've got your package box. What now? First things first, let's see wh
    
 ...and the rest of small things: a vibration motor, two ball bearings, three static bearings, magnets, heat-set inserts, M2 screws, rubber feet, a hex key and a tube of glue. 
 
-
 > [!NOTE]
 > If you are among first 100 customers, you will also have two separate breakout boards for the sensors.  
 > **Those in the panel cannot be used in such a case. Please throw them to the trash.** 
@@ -31,6 +30,11 @@ You also need some flat hard surface to work on. Bonus points if it's ferromagne
 Now, I also have an electric screwdriver here, and I hope you will forgive me for using it not the hex key.
 
 ### Preparation
+
+> [!TIP]
+> Check your board — connect it to a power source (preferably wall adapter, PC is an option but it may [produce phantom reports](https://github.com/efogtech/endgame-trackball/issues/4).  
+> Expected behavior: red LED blinks twice and turns off, green LED starts blinking slowly, the device is discoverable via BLE.
+
 The very first thing to do is to depanelize the PCB. Hold it firmly and push at the center, between boards.
 It would be really hard to break it in a wrong place so don't worry.
 
