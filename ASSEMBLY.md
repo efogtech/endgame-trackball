@@ -32,7 +32,7 @@ Now, I also have an electric screwdriver here, and I hope you will forgive me fo
 ### Preparation
 
 > [!TIP]
-> Check your board — connect it to a power source (preferably wall adapter, PC is an option but it may [produce phantom reports](https://github.com/efogtech/endgame-trackball/issues/4).  
+> Check your board — connect it to a power source (preferably wall adapter, PC is an option but it may [produce phantom reports](https://github.com/efogtech/endgame-trackball/issues/4)).  
 > Expected behavior: red LED blinks twice and turns off, green LED starts blinking slowly, the device is discoverable via BLE.
 
 The very first thing to do is to depanelize the PCB. Hold it firmly and push at the center, between boards.
