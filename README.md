@@ -19,6 +19,11 @@ Features:
 ## Default keymap
 <img width="1019" height="1433" alt="image" src="https://github.com/user-attachments/assets/ebd90b19-f67b-476b-aada-9e1eebda6d00" />
 
+#### Rotary encoders
+- Default layer: left encoder — volume, right encoder — Ctrl+Tab / Ctrl+Shift+Tab
+- Scroll layer: left — pointer sensitivity, right — twist scroll sensitivity
+- Snipe layer: both — arrows (left/right)
+
 ## Note
 
 I obviously have no control over how people refer to the device.  
