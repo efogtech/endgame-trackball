@@ -132,9 +132,13 @@ Also, take your marker and mark the other ends of the sensor cables.
 Don't skip this step as future you may regret such a decision.
 
 ### Installing sensors
-Keep in mind: the one with the short cable goes to the right side (right if you position the part as if in regular use, left on the photo).
+Keep in mind: the one with the short cable goes to the right side.
 Put a sensor board on its place, screw it down while holding it gently from the top side (so it stays in its lowest position). 
 Do that with the second one. That's it! Please refer to the photos to see orientation.
+
+> [!CAUTION]
+> The photo shows bearings already installed. This is incorrect.  
+> You SHOULD NOT install any bearings until the device is fully assembled.  
 
 ![cab-orient](./images/assembly/cab-orient.jpg)
 
