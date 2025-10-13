@@ -1,4 +1,4 @@
-## Assembly guide
+## Assembly guide 🕐 1 to 3 hours
 
 Okay, so you've got your package box. What now? First things first, let's see what you should have.
 
