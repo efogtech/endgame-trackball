@@ -45,22 +45,23 @@ Now, if you have ordered solderless option, you can skip to [gluing](#gluing).
 
 ### First steps
 Now that you are prepared, let's heat up the soldering iron.
-Take the bottom part — we will install heat-set inserts for the sensors first.
-Grab 2 inserts and place them into the appropriate holes.
+Take the top part — we will install heat-set inserts to the shell first.
+Grab 5 inserts and place them into the appropriate holes.
 One of the sides will be narrower, that's the side that goes inside.
 They should stay in place without you holding them.
-
-![sensor1](./images/assembly/sensor1.png)
 
 Now, if your iron lets you control the temperature, set it to 240°C or 460°F.
 If not, well, that's unfortunate, but it still works.
 You need to push the insert gently, while keeping it on its "trajectory".
-So, try to apply force just in one direction. It's like playing a violin. 
+So, try to apply force just in one direction, vertical, in this case. It's like playing a violin. 
 I'm sure every one of you knows how to play violin so it's great to have such a nice comparison.
 Okay, push them until they sit flush. The whole process should take just several seconds.
-Now, do the same on the other side. And now, five more on the bottom part.
 
 ![inserts-btm](./images/assembly/inserts-btm.png)
+
+Now, do the same with 4 inserts for the bottom part (the picture shows two, hope you will excuse me). 
+
+![sensor1](./images/assembly/sensor1.png)
 
 ### Sensors
 Cool, now that we're done with the inserts, let's move forward to the sensors.
@@ -77,7 +78,7 @@ Take the motherboard — we're going to solder your microswitches and install th
 Now, please be extremely careful while soldering microswitches. Almost every pad has a bunch of micro passives near it.
 It's really easy to desolder one or several, ask me how I know. Admittedly, a big oversight from my side.
 Desoldering may or may not be fatal — if it's a capacitor, you lose just hardware debounce functionality.
-If it's a resistor, the button is dead, and you need either solder a new resistor, or short the pads.  
+If it's a resistor, the button is dead, and you need to either solder a new resistor or short the pads.  
 
 Now, keeping that in mind, do the job. Silkscreen will guide you in terms of how to install switches.  
 Here goes the vibration motor too — red is plus, blue is minus, and you have silkscreen hints over there.  
