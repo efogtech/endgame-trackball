@@ -131,17 +131,6 @@ The short FPC goes into one of the sensors — it will go to the right side.
 Also, take your marker and mark the other ends of the sensor cables.  
 Don't skip this step as future you may regret such a decision.
 
-### Installing sensors
-Keep in mind: the one with the short cable goes to the right side.
-Put a sensor board on its place, screw it down while holding it gently from the top side (so it stays in its lowest position). 
-Do that with the second one. That's it! Please refer to the photos to see orientation.
-
-> [!CAUTION]
-> The photo shows bearings already installed. This is incorrect.  
-> You SHOULD NOT install any bearings until the device is fully assembled.  
-
-![cab-orient](./images/assembly/cab-orient.jpg)
-
 ### Sacrifice
 Next step will require a sacrifice. Don't worry, none of your blood will be spilled, unless you're terrible with tweezers.
 Take the bottom part and locate the sacrificial layer — loose plastic strings beneath the holes for the bearings.
@@ -153,8 +142,7 @@ Remove those with any method available. You don't need the thing to be perfectly
 Now that you've done that, place both daughter boards in their place (they just slide in), 
 line up the holes, and screw them down, but not fully. Just a few rotations will be enough for now. 
 
-Push one of the cables beneath the according sensor board. Proceed with the second one.  
-Next, take the "guide" part. You should put it into the encoder, and then tighten the board.  
+Proceed with the second one. Next, take the "guide" part. You should put it into the encoder, and then tighten the board.  
 Be careful — when pulling it out, do not apply any force sideways! Pull straight upward.  
 
 Now, take ball bearings, knobs and the "fixture" part. 
@@ -163,6 +151,19 @@ but it's there for you, and then verify your positioning: install the knobs and 
 If you don't hear satisfying clicks, repeat the positioning procedure.  
 Here's video of the full process:
 [/video/assembly/knobs.mp4](./video/assembly/knobs.mp4)
+
+Remove the knobs for now.
+
+### Installing sensors
+Keep in mind: the one with the short cable goes to the right side.
+Put a sensor board on its place, screw it down while holding it gently from the top side (so it stays in its lowest position). 
+Do that with the second one. That's it! Please refer to the photos to see orientation and preferred cable management.
+
+> [!CAUTION]
+> The photo shows bearings already installed. This is incorrect.  
+> You SHOULD NOT install any bearings until the device is fully assembled.  
+
+![cab-orient](./images/assembly/cab-orient.jpg)
 
 ### Motherboard
 Next, push cable pairs into the appropriate slots in the motherboard.
