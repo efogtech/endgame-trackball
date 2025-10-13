@@ -18,7 +18,7 @@ No, if you've made at least one change to your keymap via ZMK Studio, new firmwa
 
 <details>
 <summary>How to reset all the settings to defaults?</summary>
-Please see the <a href="https://zmk.dev/docs/config/settings#clearing-persisted-setting">corresponding section</a> of ZMK docs. Here is <a href="https://nightly.link/efogtech/endgame-trackball-config/workflows/build/reset-fw/firmware.zip">firmware-eraser, binary</a>.
+Please see the <a href="https://zmk.dev/docs/config/settings#clearing-persisted-setting">corresponding section</a> of ZMK docs. Here is <a href="https://nightly.link/efogtech/endgame-trackball-config/workflows/build/reset-fw/firmware.zip">firmware-eraser, binary</a>. TLDR: flash it onto the device, wait 5 seconds, flash the regular firmware.
 </details>
 
 <details>
