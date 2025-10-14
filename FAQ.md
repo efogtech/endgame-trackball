@@ -17,6 +17,11 @@ No, if you've made at least one change to your keymap via ZMK Studio, new firmwa
 </details>
 
 <details>
+<summary>How to build a modified firmware?</summary>
+There are two options. First one — you fork the <a href="https://github.com/efogtech/endgame-trackball-config">config repository</a> and make changes there — Github actions will do all the work for you, just download the artifact at the end. Second one — building locally. You would need to clone <a href="https://github.com/efogtech/endgame-trackball-firmware/">the firmware repository</a> and follow README.
+</details>
+
+<details>
 <summary>How to reset all the settings to defaults?</summary>
 Please see the <a href="https://zmk.dev/docs/config/settings#clearing-persisted-setting">corresponding section</a> of ZMK docs. Here is <a href="https://nightly.link/efogtech/endgame-trackball-config/workflows/build/reset-fw/firmware.zip">firmware-eraser, binary</a>.   <br />
   TLDR: flash it onto the device, wait 5 seconds, flash the regular firmware.
