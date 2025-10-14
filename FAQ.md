@@ -60,6 +60,11 @@ Open the keymap, scroll to the very end, add this line to the `&zip_2s_mixer` no
 ```
 twist-feedback-duration = <50>;
 ```
+You can also override amount of pixels to scroll for the feedback to trigger:
+```
+twist-feedback-threshold = <150>;
+```
+
 </details>
 
 <details>
