@@ -53,3 +53,27 @@ Yes, but it's not possible with ZMK Studio at the moment, you need to add this t
 Yes — open the keymap, scroll to the very end, then either decrease `twist-interference-thres` or increase `twist-thres` (or both). 
 </details>
 
+<details>
+<summary>How to enable haptic feedback for twist scroll?</summary>
+  
+Open the keymap, scroll to the very end, add this line to the `&zip_2s_mixer` node:
+```
+twist-feedback-duration = <50>;
+```
+</details>
+
+<details>
+<summary>My pointer wiggles when twist scrolling, can it not?</summary>
+  
+It can! Add this to your config file:
+```conf
+CONFIG_POINTER_2S_MIXER_SCROLL_DISABLES_POINTER=y
+```
+
+To customize period of pointer inactivity (default 160 msec), use this:
+```
+CONFIG_POINTER_2S_MIXER_POINTER_AFTER_SCROLL_ACTIVATION=160
+```
+</details>
+
+
