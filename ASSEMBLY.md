@@ -89,6 +89,10 @@ Here goes the vibration motor too — red is plus, blue is minus, and you have s
 Let's clean up and move on. You can turn your soldering iron off now.
 
 ### Gluing
+
+> [!TIP]
+> B-7000 glue loves to leave glue strings everywhere. Fear not, they are easy to remove afterwards.
+
 Take glue. You will need it for two things: magnets and lenses. Let's deal with the lenses first.
 Take kapton tape off and put the lenses in their places.
 You can determine the correct orientation with a neat trick USB teaches us — just try both.
