@@ -179,8 +179,8 @@ You want the blue stiff part of the cable to face you while doing that.
 
 ![fpc](./images/assembly/fpc.jpg)
 
-Connect the cables, and fix them in place. Cables for the sensors go straight, those for the rotary encoders go diagonally.  
-Luckily, you have the sensor cables marked!  
+Connect the cables, and fix them in place — the black thingy is a flip lock, flip it towards the cable for it to be in a horizontal position.  
+Cables for the sensors go straight, those for the rotary encoders go diagonally. Luckily, you have the sensor cables marked!  
 
 Make sure your knobs are installed.  
 Now, place the motherboard onto the bottom part in the way that the cables do not interfere with the plastic features.  
