@@ -163,7 +163,7 @@ Here's video of the full process:
 Remove the knobs for now.
 
 ### Installing sensors
-Keep in mind: the one with the short cable goes to the right side.
+Keep in mind: the one with the short cable goes to the right side (rght in the case when the board is oriented for normal use, left on the photo below).
 Put a sensor board on its place, screw it down while holding it gently from the top side (so it stays in its lowest position). 
 Do that with the second one. That's it! Please refer to the photos to see orientation and preferred cable management.
 
