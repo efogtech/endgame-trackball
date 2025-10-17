@@ -73,6 +73,13 @@ twist-feedback-threshold = <150>;
 </details>
 
 <details>
+<summary>What are twist-thres and twist-interference-thres variables?</summary>
+  
+`twist-thres` is how much you need to twist for it to start registering as scroll (less — twist scroll easier to trigger).  
+`twist-interference-thres` is how close to a single point you must keep the pointer for the twist scroll to continue scrolling (greater — more wiggle allowed).
+</details>
+
+<details>
 <summary>My pointer wiggles when twist scrolling, can it not?</summary>
   
 It can! Add this to your config file:
