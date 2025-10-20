@@ -222,3 +222,6 @@ Install your bearings of choice and keycaps — you're good to go!
 ### Use the device!
 [Here's the default keymap](https://github.com/efogtech/endgame-trackball?tab=readme-ov-file#default-keymap). 
 You can install [ZMK Studio](https://zmk.studio/download) to reconfigure it, or just go ahead with using it as is.
+
+> [!TIP]
+> Please make sure your adapters or BTUs are inserted fully. It's a tight fit and might require some force. 
