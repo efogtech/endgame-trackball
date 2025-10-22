@@ -124,8 +124,7 @@ Now, you need to make a 10-15 minutes pause before continuing, to allow the glue
 ### Cables
 
 > [!CAUTION]
-> Inserting a sensor cable in a wrong way will be fatal for the sensor.  
-> Please ensure all your cables are installed identically, with the contact side on top.  
+> Inserting a sensor cable in a wrong way will be fatal for the sensor. Please ensure all your cables are installed identically, with the contact side on top.  
 > Again — **any flat printed cable must be installed in the way displayed on the photo below**.
 
 Let's move on — take the flat printed cables and scissors.
@@ -134,6 +133,10 @@ You will see that the actual useful area is very small.
 Do that with all the cables, and install them into the daughter boards, **with the contact side facing you**.
 
 ![cable](./images/assembly/cable.jpg)
+
+> [!TIP]
+> The black thingy is a flip lock, flip it away from the cable for it to be in a horizontal position to lock the cable.  
+> You should not leave the connectors unlocked. 
 
 The short FPC goes into one of the sensors — it will go to the right side.  
 Also, take your marker and mark the other ends of the sensor cables.  
@@ -179,8 +182,9 @@ You want the blue stiff part of the cable to face you while doing that.
 
 ![fpc](./images/assembly/fpc.jpg)
 
-Connect the cables, and fix them in place — the black thingy is a flip lock, flip it towards the cable for it to be in a horizontal position.  
-Cables for the sensors go straight, those for the rotary encoders go diagonally. Luckily, you have the sensor cables marked!  
+Connect the cables, and fix them in place. 
+Cables for the sensors go straight, those for the rotary encoders go diagonally. 
+Luckily, you have the sensor cables marked!  
 
 Make sure your knobs are installed.  
 Now, place the motherboard onto the bottom part in the way that the cables do not interfere with the plastic features.  
