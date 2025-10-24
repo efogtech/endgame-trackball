@@ -42,7 +42,7 @@ Yes, but it's not possible with ZMK Studio at the moment, you need to add this t
 @@ -1,5 +1,10 @@
      trackball {
 +        default {
-+            layers = <DEFAULT>;
++            layers = <LAYER_DEFAULT>;
 +            input-processors = <&zip_scroll_scaler 0 1>;
 +        };
 
