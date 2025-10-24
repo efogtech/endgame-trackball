@@ -26,9 +26,7 @@ Okay, so you've got your package box. What now? First things first, let's see wh
 1) A soldering iron, flux and solder.
 2) IPA for cleaning.
 3) Some tweezers, not exactly required but makes things easier.
-4) Any scissors (± optional).
-5) A marker.
-6) Small pliers, optional.
+4) A marker.
 
 You also need some flat hard surface to work on. Bonus points if it's ferromagnetic! A 3D printing bed is a nice option.
 Now, I also have an electric screwdriver here, and I hope you will forgive me for using it not the hex key.
@@ -127,10 +125,7 @@ Now, you need to make a 10-15 minutes pause before continuing, to allow the glue
 > Inserting a sensor cable in a wrong way will be fatal for the sensor. Please ensure all your cables are installed identically, with the contact side on top.  
 > Again — **any flat printed cable must be installed in the way displayed on the photo below**.
 
-Let's move on — take the flat printed cables and scissors.
-You want to cut the contact area to leave ~2 mm — and if you're worried, try to install a cable into one of the connectors.
-You will see that the actual useful area is very small.
-Do that with all the cables, and install them into the daughter boards, **with the contact side facing you**.
+Install the cables into the daughter boards, **with the contact side facing you**:
 
 ![cable](./images/assembly/cable.jpg)
 
@@ -138,9 +133,8 @@ Do that with all the cables, and install them into the daughter boards, **with t
 > The black thingy is a flip lock, flip it away from the cable for it to be in a horizontal position to lock the cable.  
 > You should not leave the connectors unlocked. 
 
-The short FPC goes into one of the sensors — it will go to the right side.  
-Also, take your marker and mark the other ends of the sensor cables.  
-Don't skip this step as future you may regret such a decision.
+The short FPC goes into one of the sensors — it will go to the right side. Also, take your marker and mark the other ends of the sensor cables.  
+Don't skip this step as future you may regret such a decision. The marking will help you to distinguish encoder and sensor cables. 
 
 ### Sacrifice
 Next step will require a sacrifice. Don't worry, none of your blood will be spilled, unless you're terrible with tweezers.
