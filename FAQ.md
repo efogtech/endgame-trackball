@@ -37,14 +37,10 @@ You will find the keymap description at the <a href="https://github.com/efogtech
 Yes, but it's not possible with ZMK Studio at the moment, you need to add this to your keymap: 
   
 ```diff
---- config/efogtech_trackball_0.keymap
 +++ config/efogtech_trackball_0.keymap
-@@ -1,5 +1,10 @@
+@@ -1,5 +1,6 @@
      trackball {
-+        default {
-+            layers = <LAYER_DEFAULT>;
-+            input-processors = <&zip_scroll_scaler 0 1>;
-+        };
++        input-processors = <&zip_scroll_scaler 0 1>;
 
          scroll {
              layers = <LAYER_SCROLL>;
