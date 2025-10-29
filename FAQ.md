@@ -49,44 +49,10 @@ Yes, but it's not possible with ZMK Studio at the moment, you need to add this t
 </details>
 
 <details>
-<summary>Twist scroll is getting triggered unintentionally, anything I can do?</summary>
-  
-Yes — open the keymap, scroll to the very end, then either decrease `twist-interference-thres` or increase `twist-thres` (or both). 
-</details>
-
-<details>
 <summary>How to enable haptic feedback for twist scroll?</summary>
-  
-Open the keymap, scroll to the very end, add this line to the `&zip_2s_mixer` node:
-```
-twist-feedback-duration = <50>;
-```
-You can also override amount of pixels to scroll for the feedback to trigger:
-```
-twist-feedback-threshold = <150>;
-```
 
-</details>
-
-<details>
-<summary>What are twist-thres and twist-interference-thres variables?</summary>
-  
-`twist-thres` is how much you need to twist for it to start registering as scroll (less — twist scroll easier to trigger).  
-`twist-interference-thres` is how close to a single point you must keep the pointer for the twist scroll to continue scrolling (greater — more wiggle allowed).
-</details>
-
-<details>
-<summary>My pointer wiggles when twist scrolling, can it not?</summary>
-  
-It can! Add this to your config file:
-```conf
-CONFIG_POINTER_2S_MIXER_SCROLL_DISABLES_POINTER=y
+In your config:
 ```
-
-To customize period of pointer inactivity (default 160 msec), use this:
-```
-CONFIG_POINTER_2S_MIXER_POINTER_AFTER_SCROLL_ACTIVATION=160
+CONFIG_POINTER_2S_MIXER_FEEDBACK_EN=y
 ```
 </details>
-
-
