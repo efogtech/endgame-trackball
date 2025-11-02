@@ -66,7 +66,7 @@ Accordingly, the device is "efog.tech Endgame Trackball".
 | Rotary encoders configuration | ⚠️    | not supported in ZMK Studio, planned with no timeframe |
 | Twist scroll                  | ✅    | tested only with high resolution scroll so far |
 | Drag scroll                   | ✅    |      |
-| Fast charging                 | ⏳    | PD works, BC/QC planned |
+| Fast charging                 | ⏳    | PD works (with exceptions), BC/QC planned (driver required) |
 | RGB                           | ✅    |      |
 | Vibration                     | ✅    |      |
 | Sleep                         | ✅    |      |
