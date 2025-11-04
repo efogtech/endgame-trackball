@@ -222,4 +222,7 @@ Install your bearings of choice and keycaps — you're good to go!
 You can install [ZMK Studio](https://zmk.studio/download) to reconfigure it, or just go ahead with using it as is.
 
 > [!TIP]
-> Please make sure your adapters or BTUs are inserted fully. It's a tight fit and might require some force. 
+> Please make sure your adapters or BTUs are inserted fully. It's a tight fit and might require some force.
+
+It is highly recommended to either build a fresh firmware, or download one from the product page, to ensure having up-to-date bugfixes and updates. 
+
