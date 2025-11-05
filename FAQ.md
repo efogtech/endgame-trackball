@@ -4,6 +4,20 @@ Press the button on the back of the device (next to the USB port).
 </details>
 
 <details>
+<summary>I see red or green light next to the USB port, what does it mean?</summary>
+Green LED indicated charging status. It will be powered on while charging, or flash slowly if no battery is connected.   
+<br /><br />
+   
+Red LED indicates bootloader state: 
+<ul>
+  <li>double-flash then off — normal boot</li>
+  <li>flashing rapidly — writing to the memory in process</li>
+  <li>flashing quickly — in DFU mode but USB not connected</li>
+  <li>flashing slowly — in DFU mode, ready to be programmed</li>
+</ul>
+</details>
+
+<details>
 <summary>How to enter Device Firmware Upgrade (DFU) mode?</summary>
 Double-click the reset button quickly. Connect to the PC with the USB cable. 
 The device should appear as a mass storage device.
