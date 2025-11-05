@@ -5,7 +5,7 @@ Press the button on the back of the device (next to the USB port).
 
 <details>
 <summary>I see red or green light next to the USB port, what does it mean?</summary>
-Green LED indicated charging status. It will be powered on while charging, or flash slowly if no battery is connected.   
+Green LED indicates charging status. It will be powered on while charging, or flash slowly if no battery is connected.   
 <br /><br />
    
 Red LED indicates bootloader state: 
