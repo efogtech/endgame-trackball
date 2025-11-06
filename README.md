@@ -67,7 +67,7 @@ Accordingly, the device is "efog.tech Endgame Trackball".
 | Twist scroll                  | ✅    | tested only with high resolution scroll so far |
 | Drag scroll                   | ✅    |      |
 | Fast charging                 | ⏳    | PD works (with exceptions), BC/QC planned (driver required) |
-| RGB                           | ✅    |      |
+| RGB                           | ⏳    | only simple effects, no layer or battery indication so far     |
 | Vibration                     | ✅    |      |
 | Sleep                         | ✅    |      |
 
