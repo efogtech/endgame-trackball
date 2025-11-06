@@ -62,8 +62,8 @@ Accordingly, the device is "efog.tech Endgame Trackball".
 | Wired connectivity            | ✅    |      |
 | High polling rate (USB/BLE)   | ✅    |      |
 | Runtime rate limiting         | ✅    |      |
-| Buttons configuration         | ✅    |      |
-| Rotary encoders configuration | ⚠️    | not supported in ZMK Studio, planned with no timeframe |
+| Buttons configuration         | ✅    | with ZMK Studio |
+| Wheels configuration          | ✅    | with ZMK Studio |
 | Twist scroll                  | ✅    | tested only with high resolution scroll so far |
 | Drag scroll                   | ✅    |      |
 | Fast charging                 | ⏳    | PD works (with exceptions), BC/QC planned (driver required) |
