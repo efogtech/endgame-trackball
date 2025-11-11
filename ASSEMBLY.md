@@ -136,7 +136,7 @@ Install the cables into the daughter boards, **with the contact side facing you*
 The short FPC goes into one of the sensors — it will go to the right side. Also, take your marker and mark the other ends of the sensor cables.  
 Don't skip this step as future you may regret such a decision. The marking will help you to distinguish encoder and sensor cables. 
 
-### Sacrifice
+### Rotary encoders and knobs
 Next step will require a sacrifice. Don't worry, none of your blood will be spilled, unless you're terrible with tweezers.
 Take the bottom part and locate the sacrificial layer — loose plastic strings beneath the holes for the bearings.
 Remove those with any method available. You don't need the thing to be perfectly clean, just don't leave loose plastic.
@@ -144,8 +144,8 @@ Remove those with any method available. You don't need the thing to be perfectly
 ![loose1](./images/assembly/loose1.png)
 ![loose2](./images/assembly/loose2.png)
 
-Now that you've done that, place both daughter boards in their place (they just slide in), 
-line up the holes, and screw them down, but not fully. Just a few rotations will be enough for now. 
+Now that you've done that, place one of the daughter boards under the bearing hole you just cleared (they just slide in), 
+line up the screw holes, and screw them down, but not fully. Just a few rotations will be enough for now. 
 
 Proceed with the second one. Next, take the "guide" part. You should put it into the encoder, and then tighten the board.  
 Be careful — when pulling it out, do not apply any force sideways! Pull straight upward.  
