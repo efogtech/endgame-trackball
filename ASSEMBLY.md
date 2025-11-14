@@ -178,7 +178,9 @@ You want the blue stiff part of the cable to face you while doing that.
 
 Connect the cables, and fix them in place. 
 Cables for the sensors go straight, those for the rotary encoders go diagonally. 
-Luckily, you have the sensor cables marked!  
+Luckily, you have the sensor cables marked! Here's a photo with the correct wiring of the sensors:
+
+![wiring](./images/assembly/wiring.png)
 
 Make sure your knobs are installed.  
 Now, place the motherboard onto the bottom part in the way that the cables do not interfere with the plastic features.  
