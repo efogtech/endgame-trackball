@@ -24,15 +24,6 @@ Features:
 - Scroll layer: left — pointer sensitivity, right — twist scroll sensitivity
 - Snipe layer: both — arrows (left/right)
 
-## Note
-
-I obviously have no control over how people refer to the device.  
-Although, considering the hardly searchable name, I'd like to give a recommendation.  
-
-My "brand" would be "efog.tech" — both the name and the website URL.  
-Accordingly, the device is "efog.tech Endgame Trackball".  
-<sub>Or maybe "EfogTech Endgame \[Trackball\]" if you have that particular kind of OCD.</sub> 
-
 ## BOM
 
 | Name                             | Qty | Note                                                                 |
