@@ -61,6 +61,7 @@ Features:
 | RGB                           | ⏳    | only simple effects, no layer or battery indication so far     |
 | Vibration                     | ✅    |      |
 | Sleep                         | ✅    |      |
+| 2.4 GHz dongle (≤1000 Hz)     | ⏳    | planned     |
 
 ## FAQ
 Please see [FAQ.md](./FAQ.md).
