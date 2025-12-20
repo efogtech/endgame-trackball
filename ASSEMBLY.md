@@ -28,14 +28,12 @@ Okay, so you've got your package box. What now? First things first, let's see wh
 3) Some tweezers, not exactly required but makes things easier.
 4) A marker.
 
-You also need some flat hard surface to work on. Bonus points if it's ferromagnetic! A 3D printing bed is a nice option.
-Now, I also have an electric screwdriver here, and I hope you will forgive me for using it not the hex key.
+You also need some flat hard surface to work on. A 3D printing bed is a nice option.
 
 ### Preparation
 
 > [!TIP]
-> Check your board — connect it to a power source (preferably wall adapter, PC is an option but it may [produce phantom reports](https://github.com/efogtech/endgame-trackball/issues/4)).  
-> Expected behavior: red LED blinks twice and turns off, green LED starts blinking slowly, the device is discoverable via BLE.
+> Check your board — connect it to a power source. Expected behavior: red LED blinks twice and turns off, the device is discoverable via BLE.
 
 The very first thing to do is to depanelize the PCB. Hold it firmly and push at the center, between boards.
 It would be really hard to break it in a wrong place so don't worry.
@@ -102,19 +100,17 @@ Now, please be careful, either do that in midair, or get something to put under 
 
 ### Magnets
 Take all your magnets and make a single rod (tower) out of them. Now, take your marker and mark one side of the tower.
-Always (literally) keep this side on top, it will allow you to keep the polarity right.
+Always keep this side pointing upwards, it will allow you to keep the polarity right.
 
-Apply glue to all the buttons.
+Apply glue to all the keycaps (not the buttons yet).
 Note that you don't need to pour glue, you just want to leave a little ...glue mark?
-By the way, the glue is not instantaneous and takes 10-20 minutes to harden.
+By the way, the glue is not instantaneous and takes 5-10 minutes to harden.
 
-Now, there are two options. Either take magnets one by one, keeping the polarity right, and place them into slots,
-or just insert the whole tower into a slot and then move it sideways. Then, apply downward force to the magnet.
-
-Okay, so you're done with the buttons, let's proceed with the shell now. Place it onto a flat hard surface.
-The procedure is the same, you keep your polarity mark at the top, and install magnets one by one.
-There is one important thing to keep in mind — if you're using the tower method, make sure to NEVER pull the tower up, only move it sideways.
-Otherwise, you will bend the button and... well that's bad.
+Install magnets into the keycaps by pushing the tower into a hole then moving it sideways. Remove excess glue with a wipe.  
+Take the shell and apply the glue to all buttons. Install magnets in this way: 
+1. Take a keycap and put it on its place
+2. Take one magnet and drop it into one of the holes
+3. Continue with the second hole and the rest of the buttons 
 
 You're done with the magnets! You can take the glue away, you won't need it anymore.
 Now, you need to make a 10-15 minutes pause before continuing, to allow the glue to harden a little.
