@@ -13,7 +13,7 @@ Okay, so you've got your package box. What now? First things first, let's see wh
 2) FDM printed parts: shell, bottom part, 8 buttons, a fixture, and 3 adapters for static bearings.
 3) SLA printed parts: two knobs and one guide for assembly.
 4) Battery — although, for the sake of shipping safety, it will most likely be already installed in its place.
-5) Flat printed cables — three long and one short.
+5) Flat printed cables.
 6) Two sets of PMW3610 sensor and its lens.
    
 ...and the rest of small things: a vibration motor, two ball bearings, three static bearings, magnets, heat-set inserts, M2 screws, rubber feet, a hex key and a tube of glue. 
@@ -129,7 +129,7 @@ Install the cables into the daughter boards, **with the contact side facing you*
 > The black thingy is a flip lock, flip it away from the cable for it to be in a horizontal position to lock the cable.  
 > You should not leave the connectors unlocked. 
 
-The short FPC goes into one of the sensors — it will go to the right side. Also, take your marker and mark the other ends of the sensor cables.  
+Take your marker and mark the other ends of the sensor cables.  
 Don't skip this step as future you may regret such a decision. The marking will help you to distinguish encoder and sensor cables. 
 
 ### Rotary encoders and knobs
@@ -156,13 +156,12 @@ Here's video of the full process:
 Remove the knobs for now.
 
 ### Installing sensors
-Keep in mind: the one with the short cable goes to the right side (rght in the case when the board is oriented for normal use, left on the photo below).
 Put a sensor board on its place, screw it down while holding it gently from the top side (so it stays in its lowest position). 
 Do that with the second one. That's it! Please refer to the photos to see orientation and preferred cable management.
 
 > [!CAUTION]
 > The photo shows bearings already installed. This is incorrect.  
-> You SHOULD NOT install any bearings until the device is fully assembled.  
+> You SHOULD NOT install any bearings until the device is fully assembled.
 
 ![cab-orient](./images/assembly/cab-orient.jpg)
 
