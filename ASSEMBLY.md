@@ -108,7 +108,7 @@ By the way, the glue is not instantaneous and takes 5-10 minutes to harden.
 
 Install magnets into the keycaps by pushing the tower into a hole then moving it sideways. Remove excess glue with a wipe.  
 Take the shell and apply the glue to all buttons. Install magnets in this way: 
-1. Take a keycap and put it on its place
+1. Take a keycap and put it on its place (just hold it there, no precision required)
 2. Take one magnet and drop it into one of the holes
 3. Continue with the second hole and the rest of the buttons 
 
