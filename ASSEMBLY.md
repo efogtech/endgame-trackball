@@ -19,8 +19,7 @@ Okay, so you've got your package box. What now? First things first, let's see wh
 ...and the rest of small things: a vibration motor, two ball bearings, three static bearings, magnets, heat-set inserts, M2 screws, rubber feet, a hex key and a tube of glue. 
 
 > [!NOTE]
-> If you are among first 100 customers, you will also have two separate breakout boards for the sensors.  
-> **Those in the panel cannot be used in such a case. Please throw them to the trash.** 
+> In case if your kit contains separate encoder boards, please dispose of the ones in the panel.
 
 ### Required from your side
 1) A soldering iron, flux and solder.
@@ -31,9 +30,6 @@ Okay, so you've got your package box. What now? First things first, let's see wh
 You also need some flat hard surface to work on. A 3D printing bed is a nice option.
 
 ### Preparation
-
-> [!TIP]
-> Check your board — connect it to a power source. Expected behavior: red LED blinks twice and turns off, the device is discoverable via BLE.
 
 The very first thing to do is to depanelize the PCB. Hold it firmly and push at the center, between boards.
 It would be really hard to break it in a wrong place so don't worry.
@@ -75,13 +71,12 @@ Do the same with the second sensor. Clean the boards and let's move on to the ne
 
 ### Rest of the soldering
 Take the motherboard — we're going to solder your microswitches and install the vibration motor.
-Now, please be extremely careful while soldering microswitches. Almost every pad has a bunch of micro passives near it.
-It's really easy to desolder one or several, ask me how I know. Admittedly, a big oversight from my side.
-Desoldering may or may not be fatal — if it's a capacitor, you lose just hardware debounce functionality.
+Now, please be careful while soldering microswitches. Some pads have micro passives near it. 
+It's easy to desolder one or several, ask me how I know. Desoldering may or may not be fatal — if it's a capacitor, you lose just hardware debounce functionality.
 If it's a resistor, the button is dead, and you need to either solder a new resistor or short the pads.  
 
 Now, keeping that in mind, do the job. Silkscreen will guide you in terms of how to install switches.  
-Here goes the vibration motor too — red is plus, blue is minus, and you have silkscreen hints over there.  
+Next, solder down the screw terminal for the vibration motor. Note that it should be on the bottom of the PCB, not on top.  
 Let's clean up and move on. You can turn your soldering iron off now.
 
 ### Gluing
@@ -96,7 +91,7 @@ Make sure it sits flush and pour just a little bit of glue on both sides.
 
 ![sens-glue](./images/assembly/sens-glue.jpg)
 
-Now, please be careful, either do that in midair, or get something to put under the sensor — you see, there are plastic rods sticking out of the IC at the bottom, and if you place the board onto a flat surface, your lens will push itself off. After applying glue, let the sensor boards rest for 10-15 minutes. But put something beneath them anyway.
+Now, please be careful, either do that in midair, or get something to put under the sensor — you see, there are plastic rods sticking out of the IC at the bottom, and if you place the board onto a flat surface, your lens will push itself off. After applying glue, let the sensor boards rest for 10-15 minutes. But put something beneath them anyway. Alternatively, you can apply glue to the rods themselves (from the other side), but please make sure to wait for at least 30 minutes in that case. 
 
 ### Magnets
 Take all your magnets and make a single rod (tower) out of them. Now, take your marker and mark one side of the tower.
@@ -221,5 +216,5 @@ You can install [ZMK Studio](https://zmk.studio/download) to reconfigure it, or 
 > [!TIP]
 > Please make sure your adapters or BTUs are inserted fully. It's a tight fit and might require some force.
 
-It is highly recommended to either build a fresh firmware, or download one from the product page, to ensure having up-to-date bugfixes and updates. 
+It is highly recommended to either build a fresh firmware, or [download one](https://efog.tech/products/endgame-trackball-complete-diy-kit?tab=links#content) from the product page, to ensure having up-to-date bugfixes and updates. Please see FAQ.md to learn how to flash the device.   
 
