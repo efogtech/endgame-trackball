@@ -6,9 +6,6 @@ Okay, so you've got your package box. What now? First things first, let's see wh
 
 ### Included in every kit
 
-> [!TIP]
-> To get magnets and knobs out, the packaging box has holes on the opposite sides. The holes fit your hex key.
-
 1) The PCB panel
 2) FDM printed parts: shell, bottom part, 8 buttons, a fixture, and 3 adapters for static bearings.
 3) SLA printed parts: two knobs and one guide for assembly.
