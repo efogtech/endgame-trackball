@@ -171,8 +171,7 @@ Luckily, you have the sensor cables marked! Here's a photo with the correct wiri
 
 Make sure your knobs are installed.  
 Now, place the motherboard onto the bottom part in the way that the cables do not interfere with the plastic features.  
-Screw down the motherboard, and install the vibration motor — remove the peel and place the motor onto the vertical feature sticking out on the left side of the bottom part.
-Make sure that the motor does not touch the "floor" (bottom surface); it should have at least 1 mm clearance. Almost done!  
+Screw down the motherboard, and use the screw terminal to connect the vibration motor, then remove the peel and place the motor onto the vertical feature sticking out on the left side of the bottom part. Make sure that the motor does not touch the "floor" (bottom surface); it should have at least 1 mm clearance. Almost done!  
 
 ### Testing
 
