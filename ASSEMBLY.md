@@ -155,6 +155,8 @@ Do that with the second one. That's it! Please refer to the photos to see orient
 > The photo shows bearings already installed. This is incorrect.  
 > You SHOULD NOT install any bearings until the device is fully assembled.
 
+Both arrows on the daughter boards must **point downwards**.
+
 ![cab-orient](./images/assembly/cab-orient.jpg)
 
 ### Motherboard
