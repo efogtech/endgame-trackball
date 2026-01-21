@@ -96,7 +96,8 @@ Always keep this side pointing upwards, it will allow you to keep the polarity r
 
 Apply glue to all the keycaps (not the buttons yet).
 Note that you don't need to pour glue, you just want to leave a little ...glue mark?
-By the way, the glue is not instantaneous and takes 5-10 minutes to harden.
+By the way, the glue is not instantaneous and takes 5-10 minutes to harden.  
+Gluing also can be omitted completely for your keycaps, typically it's a tight fit already.  
 
 Install magnets into the keycaps by pushing the tower into a hole then moving it sideways. Remove excess glue with a wipe.  
 Take the shell and apply the glue to all buttons. Install magnets in this way: 
