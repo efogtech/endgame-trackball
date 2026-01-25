@@ -139,9 +139,7 @@ line up the screw holes, and screw them down, but not fully. Just a few rotation
 Proceed with the second one. Next, take the "guide" part. You should put it into the encoder, and then tighten the board.  
 Be careful — when pulling it out, do not apply any force sideways! Pull straight upward.  
 
-Now, take ball bearings, knobs and the "fixture" part. 
-Install the bearings onto the knobs — should be possible without the fixture, 
-but it's there for you, and then verify your positioning: install the knobs and try them.  
+Now, take ball bearings and the knobs. Install the bearings onto the knobs and then verify your positioning: try them.  
 If you don't hear satisfying clicks, repeat the positioning procedure.  
 Here's video of the full process:
 [/video/assembly/knobs.mp4](./video/assembly/knobs.mp4)
