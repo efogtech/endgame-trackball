@@ -146,6 +146,10 @@ If you don't hear satisfying clicks, repeat the positioning procedure.
 Here's video of the full process:
 [/video/assembly/knobs.mp4](./video/assembly/knobs.mp4)
 
+Example of a correct installation:  
+
+<img width="2600" height="2633" alt="image" src="https://github.com/user-attachments/assets/41a3ef53-a0c4-43da-96b2-97b2a3e2cab8" />
+
 Remove the knobs for now.
 
 ### Installing sensors
