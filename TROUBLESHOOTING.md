@@ -47,6 +47,12 @@ This indicates that only one of the sensors is functional. Please restart the de
 </details>
 
 <details>
+<summary>Pointer works but is significantly off-axis (maybe even producing horizontal events when rolling vertically)</summary>
+  
+This indicates that one of the sensor boards is installed in an incorrect orientation. Please consult with the pictures in the assembly guide keeping attention to this aspect. 
+</details>
+
+<details>
 <summary>One of the sensor reports "unexpected product id"</summary>
   
 This typically indicates no electrical connection from the board to the sensor. Try re-seating the cable from both ends.
