@@ -49,7 +49,7 @@ This indicates that only one of the sensors is functional. Please restart the de
 <details>
 <summary>Pointer works but is significantly off-axis (maybe even producing horizontal events when rolling vertically)</summary>
   
-This indicates that one of the sensor boards is installed in an incorrect orientation. Please consult with the pictures in the assembly guide keeping attention to this aspect. 
+This indicates that one of the sensor boards is installed in an incorrect orientation. Please consult with the pictures in the assembly guide keeping attention to this aspect. Note that this statement is not relevant for the debug firmware. 
 </details>
 
 <details>
