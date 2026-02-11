@@ -29,7 +29,7 @@ You also need some flat hard surface to work on. A 3D printing bed is a nice opt
 ### Preparation
 
 The very first thing to do is to depanelize the PCB. Hold it firmly and push at the center, between boards.
-It would be really hard to break it in a wrong place so don't worry.
+Make sure it bends in the right place when you are doing so.
 
 ![depanelization](./images/assembly/depanelization.png)
 
