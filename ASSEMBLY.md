@@ -82,13 +82,13 @@ Let's clean up and move on. You can turn your soldering iron off now.
 > B-7000 glue loves to leave glue strings everywhere. Fear not, they are easy to remove afterwards.
 
 Take glue. You will need it for two things: magnets and lenses. Let's deal with the lenses first.
-Take kapton tape off and put the lenses in their places.
-You can determine the correct orientation with a neat trick USB teaches us — just try both.
-Make sure it sits flush and pour just a little bit of glue on both sides.
+Remove 4 pieces of yellow (Kapton) tape from the sensors (2 from each). Now, take a lens. 
+You can determine the correct orientation with a neat trick USB teaches us — just try both. 
+Make sure it sits flush and pour just a little bit of glue on both sides. 
 
 ![sens-glue](./images/assembly/sens-glue.jpg)
 
-Now, please be careful, either do that in midair, or get something to put under the sensor — you see, there are plastic rods sticking out of the IC at the bottom, and if you place the board onto a flat surface, your lens will push itself off. After applying glue, let the sensor boards rest for 10-15 minutes. But put something beneath them anyway. Alternatively, you can apply glue to the rods themselves (from the other side), but please make sure to wait for at least 30 minutes in that case. 
+Now, please be careful, either do that in midair, or get something to put under the sensor — you see, there are plastic rods sticking out of the IC at the bottom, and if you place the board onto a flat surface, your lens will push itself off. After applying glue, let the sensor boards rest for 10-15 minutes. But put something beneath them anyway. Alternatively, you can apply glue to the rods themselves (from the other side), but please make sure to wait for at least 30 minutes in that case.  
 
 ### Magnets
 Take all your magnets and make a single rod (tower) out of them. Now, take your marker and mark one side of the tower.
