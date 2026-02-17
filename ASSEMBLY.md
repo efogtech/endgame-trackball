@@ -217,8 +217,10 @@ You can install [ZMK Studio](https://zmk.studio/download) to reconfigure it, or 
 > [!TIP]
 > Please make sure your adapters or BTUs are inserted fully. It's a tight fit and might require some force.
 
-It is highly recommended to either build a fresh firmware, or [download one](https://efog.tech/products/endgame-trackball-complete-diy-kit?tab=links#content) from the product page, to ensure having up-to-date bugfixes and updates. Also see:
+It is highly recommended to either build a fresh firmware, or [download one*](https://efog.tech/products/endgame-trackball-complete-diy-kit?tab=links#content) from the product page, to ensure having up-to-date bugfixes and updates. Also see:
 1. [Troubleshooting](https://github.com/efogtech/endgame-trackball/blob/main/TROUBLESHOOTING.md)
 2. [FAQ](https://github.com/efogtech/endgame-trackball/blob/main/FAQ.md)
 3. [Discord server](https://efog.tech/discord)
+
+*Please note that the upgraded sensors (PAW3395) require a [special firmware](https://github.com/efogtech/endgame-trackball-config/tree/paw3395)!
 
