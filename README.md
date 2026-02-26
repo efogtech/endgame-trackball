@@ -17,7 +17,7 @@ Features:
 ![20250728_060028](https://github.com/user-attachments/assets/f433f68a-cfca-4bec-8bcd-85bc274544f8)
 
 ## Default keymap
-Available on the website: https://efog.tech/docs/keymap (or in the PDF directory)
+Available on the website: https://efog.tech/docs/keymap (or in the PDF directory of the firmware repo).
 
 #### Rotary encoders
 - Default layer: left encoder — volume, right encoder — Ctrl+Tab / Ctrl+Shift+Tab
