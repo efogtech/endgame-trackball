@@ -47,22 +47,6 @@ You will find the keymap description at the <a href="https://github.com/efogtech
 </details>
 
 <details>
-<summary>Can I disable twist scroll?</summary>
-Yes, but it's not possible with ZMK Studio at the moment, you need to add this to your keymap: 
-  
-```diff
-+++ config/efogtech_trackball_0.keymap
-@@ -1,5 +1,6 @@
-     trackball {
-+        input-processors = <&zip_scroll_scaler 0 1>;
-
-         scroll {
-             layers = <LAYER_SCROLL>;
-             input-processors = <&zip_xy_scaler SCROLL_MULTIPLIER SCROLL_DIVISOR>, <&zip_axis_clamper>,
-```
-</details>
-
-<details>
 <summary>How to enable haptic feedback for twist scroll?</summary>
 
 In your config:
