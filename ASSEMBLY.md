@@ -211,8 +211,7 @@ Now that it's inside, take a screw and tighten it from the bottom, while keeping
 Install your bearings of choice and keycaps — you're good to go!
 
 ### Use the device!
-[Here's the default keymap](https://github.com/efogtech/endgame-trackball?tab=readme-ov-file#default-keymap). 
-You can install [ZMK Studio](https://zmk.studio/download) to reconfigure it, or just go ahead with using it as is.
+[Here's the default keymap](https://efog.tech/docs/keymap). You can install [ZMK Studio](https://zmk.studio/download) to reconfigure it, or just go ahead with using it as is.
 
 > [!TIP]
 > Please make sure your adapters or BTUs are inserted fully. It's a tight fit and might require some force.
@@ -221,6 +220,7 @@ It is highly recommended to either build a fresh firmware, or [download one*](ht
 1. [Troubleshooting](https://github.com/efogtech/endgame-trackball/blob/main/TROUBLESHOOTING.md)
 2. [FAQ](https://github.com/efogtech/endgame-trackball/blob/main/FAQ.md)
 3. [Discord server](https://efog.tech/discord)
+4. [Marshmallow UI](https://efog.tech/marshmellow-ui) — configuration tool (wired only)
 
 *Please note that the upgraded sensors (PAW3395) require a [special firmware](https://github.com/efogtech/endgame-trackball-config/tree/paw3395)!
 
