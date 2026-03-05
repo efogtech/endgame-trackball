@@ -68,7 +68,7 @@ Available on the website: https://efog.tech/docs/keymap (or in the PDF directory
 Please see [FAQ.md](./FAQ.md).
 
 ## Troubleshooting
-Please see [firmware thoubleshooting](https://github.com/efogtech/endgame-trackball-firmware/?tab=readme-ov-file#troubleshooting).
+Please see [firmware thoubleshooting](https://github.com/efogtech/endgame-trackball-firmware/?tab=readme-ov-file#troubleshooting) and [TROUBLESHOOTING.md](https://github.com/efogtech/endgame-trackball/blob/main/TROUBLESHOOTING.md).
 
 ## Support
 
