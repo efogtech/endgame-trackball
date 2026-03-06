@@ -141,6 +141,9 @@ Be careful — when pulling it out, do not apply any force sideways! Pull straig
 
 Now, take ball bearings and the knobs. Install the bearings onto the knobs and then verify your positioning: try them.  
 If you don't hear satisfying clicks, repeat the positioning procedure.  
+
+If after several attempts you still get no clicks, try loosening both screws. You may leave them loose and it won't affect functinality in a bad way.  
+
 Here's video of the full process:
 [/video/assembly/knobs.mp4](./video/assembly/knobs.mp4)
 
