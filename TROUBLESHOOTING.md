@@ -3,8 +3,10 @@
   
 1. Try to use your PC (not a wall adapter)  
 2. Try to use a different cable  
-3. Unplug the battery and try again  
-4. If nothing helps, inspect the board and reach the support with a photo
+3. Unplug the battery and try again
+4. Make sure you didn't confuse sensor and encoder cables
+5. Inspect the motherboard for unexpected shorts if it was soldered by you  
+6. If nothing helps, reach to the support with a high-res photo
 </details>
 
 <details>
@@ -13,7 +15,7 @@
 1. Ensure the correct boot sequence — restart the device and observe the red LED. The normal behavior is two flashes, then off  
 2. Try to discover it with Bluetooth  
 3. Make sure it doesn't show up as a flash drive — you need to flash the board in that case  
-4. If nothing helps, inspect the board and reach the support with a photo  
+4. If nothing helps, inspect the board and reach to the support with a high-res photo  
 </details>
 
 <details>
