@@ -2,7 +2,7 @@
 <summary>The board shows no signs of life when I plug in my USB power</summary>
   
 1. Try to use your PC (not a wall adapter)  
-2. Try to use a different cable  
+2. Try to use a different cable (try USB Type A-to-C instead of C-to-C) 
 3. Unplug the battery and try again
 4. Make sure you didn't confuse sensor and encoder cables
 5. Inspect the motherboard for unexpected shorts if it was soldered by you  
