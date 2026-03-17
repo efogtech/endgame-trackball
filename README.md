@@ -12,9 +12,9 @@ Features:
 9. Fast charging (up to 15W) with PD support
 10. RGB underglow and vibration motor for feedback 
 
-## Demo (more in [gallery](./GALLERY.md), [the website](https://efog.tech/docs/colors) and [Discord](https://efog.tech/discord))
+## Demo (more on [the website](https://efog.tech/docs/colors) and in [Discord](https://efog.tech/discord))
 
-![20250728_060028](https://github.com/user-attachments/assets/f433f68a-cfca-4bec-8bcd-85bc274544f8)
+<img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/147be7bc-b948-4945-970d-bcb31cd73742" />
 
 ## Default keymap
 Available on the website: https://efog.tech/docs/keymap (or in the PDF directory of the firmware repo).
