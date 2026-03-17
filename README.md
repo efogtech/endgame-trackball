@@ -32,17 +32,15 @@ Available on the website: https://efog.tech/docs/keymap (or in the PDF directory
 | 3.7V battery                     | 1   | up to 102550, 3 pin 1.0 mm pitch, 1st pin negative                   |
 | Trackball                        | 1   | 50.8 mm to 55 mm                                                     |
 | PMW3610 and lens                 | 2   |                                                                      |
-| Vibration motor                  | 1   | coin type                                                            |
+| Vibration motor                  | 1   | coin type, 3V                                                        |
 | Rotary encoder knob (wheel)      | 2   | SLA printed, Siraya Tech Blu biocompatible resin                     |
-| Rotary encoder guide             | 1   | SLA printed part for assembly                                        |
-| FPC, 150 mm                      | 3   | 0.5 mm pitch, 8 pin                                                  |
-| FPC, 100 mm                      | 1   | 0.5 mm pitch, 8 pin                                                  |
+| FPC, 120 mm                      | 4   | 0.5 mm pitch, 8 pin                                                  |
 | MR63ZZ bearing                   | 2   |                                                                      |
 | BTU (optional)                   | 3   | BOSCH Rexroth (R0530108), Veichu VCN310 (with adapter)               |
 | Static bearing (optional)        | 3   | 3 mm, Si3N4                                                          |
 | Heat-set insert, M2\*3.5*2.5     | 9   |                                                                      |
 | Magnet 4x2                       | 36  |                                                                      |
-| M2 screw, 4 mm                   | 20  | ISO7380                                                              |
+| M2 screw, 4 mm                   | 22  | ISO7380                                                              |
 | Rubber foot                      | 4   | 0.5 mm thickness                                                     |
 
 ## Roadmap
