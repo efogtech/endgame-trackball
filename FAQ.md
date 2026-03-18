@@ -38,19 +38,6 @@ There are two options. First one — you fork the <a href="https://github.com/ef
 <details>
 <summary>How to reset all the settings to defaults?</summary>
 Please see the <a href="https://zmk.dev/docs/config/settings#clearing-persisted-setting">corresponding section</a> of ZMK docs. Here is <a href="https://nightly.link/efogtech/endgame-trackball-config/workflows/build/reset-fw/firmware.zip">firmware-eraser, binary</a>.   <br />
-  TLDR: flash it onto the device, wait 5 seconds, flash the regular firmware.
-</details>
-
-<details>
-<summary>What is the default keymap?</summary>
-You will find the keymap description at the <a href="https://github.com/efogtech/endgame-trackball/tree/main?tab=readme-ov-file#default-keymap">root README</a>.
-</details>
-
-<details>
-<summary>How to enable haptic feedback for twist scroll?</summary>
-
-In your config:
-```
-CONFIG_POINTER_2S_MIXER_FEEDBACK_EN=y
-```
+  TLDR: flash it onto the device, wait 5 seconds, flash the regular firmware.  
+Alternatively, execute `board erase` with Marshmellow UI. 
 </details>
