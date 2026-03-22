@@ -5,8 +5,9 @@
 2. Try to use a different cable (try USB Type A-to-C instead of C-to-C) 
 3. Unplug the battery and try again
 4. Make sure you didn't confuse sensor and encoder cables
-5. Inspect the motherboard for unexpected shorts if it was soldered by you  
-6. If nothing helps, reach to the support with a high-res photo
+5. Try to disconnect every possible cable (sensors, encoders, battery, vibromotor) 
+6. Inspect the motherboard for unexpected shorts if it was soldered by you  
+7. If nothing helps, reach to the support with a high-res photo
 </details>
 
 <details>
