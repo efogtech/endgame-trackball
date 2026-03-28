@@ -8,9 +8,8 @@ Features:
 5. 8 buttons with magnetically attachable keycaps, 2 rotary encoders
 6. Supported ball size: from 50 mm to 55 mm
 7. Ball Transfer Units (BTU) or static bearings (hot swap with an adapter)
-8. Up to 1500 mAh (102550 size) battery with 3 pin 1.0 mm connector
-9. Fast charging (up to 15W) with PD support
-10. RGB underglow and vibration motor for feedback 
+8. Up to 1500 mAh (102550 size) battery fast charging
+9. RGB and vibration motor for feedback 
 
 ## Demo (more on [the website](https://efog.tech/docs/colors) and in [Discord](https://efog.tech/discord))
 
