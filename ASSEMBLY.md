@@ -225,5 +225,8 @@ It is highly recommended to either build a fresh firmware, or [download one*](ht
 3. [Discord server](https://efog.tech/discord)
 4. [Marshmallow UI](https://efog.tech/marshmellow-ui) — configuration tool (wired only)
 
+> [!CAUTION]
+> Please make sure to remove BTUs or static bearings every time you assemble or disassemble your device. There are diagonal holes on the bottom which you can use with the stock hex key to push them out. You will break either knobs or the shell if you leave them in place. 
+
 *Please note that the upgraded sensors (PAW3395) require a [special firmware](https://github.com/efogtech/endgame-trackball-config/tree/paw3395)!
 
