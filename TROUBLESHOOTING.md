@@ -13,10 +13,11 @@
 <details>
 <summary>The device turns on but my host doesn't see it</summary>
   
-1. Ensure the correct boot sequence — restart the device and observe the red LED. The normal behavior is two flashes, then off  
-2. Try to discover it with Bluetooth  
-3. Make sure it doesn't show up as a flash drive — you need to flash the board in that case  
-4. If nothing helps, inspect the board and reach to the support with a high-res photo  
+1. Ensure the correct boot sequence — restart the device and observe the red LED. The normal behavior is two flashes, then off
+2. Disconnect both USB power and the battery, then plug back in and check 
+3. Try to discover it with Bluetooth  
+4. Make sure it doesn't show up as a flash drive — you need to flash the board in that case  
+5. If nothing helps, inspect the board and reach to the support with a high-res photo  
 </details>
 
 <details>
