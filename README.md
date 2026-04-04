@@ -50,12 +50,12 @@ Available on the website: https://efog.tech/docs/keymap (or in the PDF directory
 | Wired connectivity            | ✅    |      |
 | High polling rate (USB/BLE)   | ✅    |      |
 | Runtime rate limiting         | ✅    |      |
-| Buttons configuration         | ✅    | with ZMK Studio |
-| Wheels configuration          | ✅    | with ZMK Studio |
-| Twist scroll                  | ✅    | tested only with high resolution scroll so far |
+| Buttons configuration         | ✅    | in ZMK Studio |
+| Wheels configuration          | ✅    | in ZMK Studio |
+| Twist scroll                  | ✅    |      |
 | Drag scroll                   | ✅    |      |
-| Fast charging                 | ⏳    | PD works (with exceptions), BC/QC planned (driver required) |
-| RGB                           | ⏳    | only simple effects, no layer or battery indication so far     |
+| Fast charging                 | ✅    |      |
+| RGB                           | ✅    |      |
 | Vibration                     | ✅    |      |
 | Sleep                         | ✅    |      |
 | 2.4 GHz dongle (≤1000 Hz)     | ⏳    | in progress     |
