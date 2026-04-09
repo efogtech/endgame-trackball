@@ -37,7 +37,5 @@ There are two options. First one — you fork the <a href="https://github.com/ef
 
 <details>
 <summary>How to reset all the settings to defaults?</summary>
-Please see the <a href="https://zmk.dev/docs/config/settings#clearing-persisted-setting">corresponding section</a> of ZMK docs. Here is <a href="https://nightly.link/efogtech/endgame-trackball-config/workflows/build/reset-fw/firmware.zip">firmware-eraser, binary</a>.   <br />
-  TLDR: flash it onto the device, wait 5 seconds, flash the regular firmware.  
-Alternatively, execute `board erase` with Marshmellow UI. 
+Execute `board erase` command with Marshmellow UI. 
 </details>
