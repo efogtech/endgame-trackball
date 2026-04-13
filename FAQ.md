@@ -37,5 +37,10 @@ There are two options. First one — you fork the <a href="https://github.com/ef
 
 <details>
 <summary>How to reset all the settings to defaults?</summary>
-Execute `board erase` command with Marshmellow UI. 
+Execute `board erase` command with Marshmellow UI.  
+</details>
+
+<details>
+<summary>How to unbrick the device?</summary>
+Flash the [firmware-eraser](https://efog.tech/storage/eraser.uf2) that will clear your settings partition. Then flash your regular firmware. Do not leave the eraser on your device! 
 </details>
