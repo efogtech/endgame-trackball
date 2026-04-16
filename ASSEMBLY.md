@@ -221,9 +221,9 @@ Install your bearings of choice and keycaps — you're good to go!
 
 It is highly recommended to either build a fresh firmware, or [download one*](https://efog.tech/products/endgame-trackball-complete-diy-kit?tab=links#content) from the product page, to ensure having up-to-date bugfixes and updates. Also see:
 1. [Troubleshooting](https://github.com/efogtech/endgame-trackball/blob/main/TROUBLESHOOTING.md)
-2. [FAQ](https://github.com/efogtech/endgame-trackball/blob/main/FAQ.md)
-3. [Discord server](https://efog.tech/discord)
-4. [Marshmallow UI](https://efog.tech/marshmellow-ui) — configuration tool (wired only)
+2. [Marshmellow UI](https://efog.tech/marshmellow-ui) — configuration tool
+3. [FAQ](https://github.com/efogtech/endgame-trackball/blob/main/FAQ.md)
+4. [Discord server](https://efog.tech/discord)
 
 > [!CAUTION]
 > Please make sure to remove BTUs or static bearings every time you assemble or disassemble your device. There are diagonal holes on the bottom which you can use with the stock hex key to push them out. You will break either knobs or the shell if you leave them in place. 
