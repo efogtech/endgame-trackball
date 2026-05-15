@@ -58,7 +58,7 @@ Available on the website: https://efog.tech/docs/keymap (or in the PDF directory
 | RGB                           | ✅    |      |
 | Vibration                     | ✅    |      |
 | Sleep                         | ✅    |      |
-| 2.4 GHz dongle (≤1000 Hz)     | ⏳    | in progress     |
+| 2.4 GHz dongle (≤1000 Hz)     | ✅    |      |
 | 2.4 GHz dongle (8000 Hz)      | ⏳    | planned     |
 
 ## FAQ
