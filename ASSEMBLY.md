@@ -145,7 +145,7 @@ Install magnets into the keycaps by pushing the tower into each hole and then mo
 
 ### Gluing magnets on the buttons
 
-Take the **top part of the shell** and dab glue in each magnet hole.
+Take the **shell** and dab glue in each magnet hole.
 
 Install magnets in this way:
 
