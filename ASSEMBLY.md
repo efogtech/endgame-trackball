@@ -1,4 +1,30 @@
-# Assembly guide 🕐 1 to 3 hours
+# Assembly guide 🕐 1 to 3 hours <!-- omit in toc -->
+
+## Table of Contents <!-- omit in toc -->
+<!-- generated with Markdown All in One VS Code plugin -->
+
+- [Included in every kit](#included-in-every-kit)
+- [Required from your side](#required-from-your-side)
+- [Preparation](#preparation)
+- [Soldering](#soldering)
+  - [Heat-set inserts](#heat-set-inserts)
+  - [Soldering sensors](#soldering-sensors)
+  - [Soldering the motherboard](#soldering-the-motherboard)
+- [Gluing](#gluing)
+  - [Gluing lenses to the sensors](#gluing-lenses-to-the-sensors)
+  - [Gluing magnets on the keycaps](#gluing-magnets-on-the-keycaps)
+  - [Gluing magnets on the buttons](#gluing-magnets-on-the-buttons)
+- [Cables](#cables)
+- [Rotary encoders and knobs](#rotary-encoders-and-knobs)
+- [Installing sensors](#installing-sensors)
+- [Motherboard](#motherboard)
+- [Testing](#testing)
+- [Shell and feet](#shell-and-feet)
+- [Installing static bearings in the adapters](#installing-static-bearings-in-the-adapters)
+- [Inserting bearings](#inserting-bearings)
+- [Use the device!](#use-the-device)
+
+---
 
 Okay, so you've got your package box. What now? First things first, let's see what you should have.
 
@@ -6,19 +32,19 @@ Okay, so you've got your package box. What now? First things first, let's see wh
 
 ## Included in every kit
 
-1) The PCB panel
-2) FDM printed parts: shell, bottom part, 8 buttons, a fixture, and 3 adapters for static bearings.
-3) SLA printed parts: two knobs and one guide for assembly.
-4) Battery — although, for the sake of shipping safety, it will likely already be installed in its place.
-5) Flat printed cables.
-6) Two sets of PMW3610 sensors and their lenses.
-   
+1. The PCB panel
+2. FDM printed parts: shell, bottom part, 8 buttons, a fixture, and 3 adapters for static bearings
+3. SLA printed parts: two knobs and one guide for assembly
+4. Battery — although, for the sake of shipping safety, it will likely already be installed in its place
+5. Flat printed cables (FPC)
+6. Two sets of PMW3610 sensors and their lenses
+
 ...and the rest of small things: a vibration motor, two ball bearings, three static bearings, magnets, heat-set inserts, M2 screws, rubber feet, a hex key and a tube of glue. 
 
 > [!NOTE]
 > If your kit contains separate encoder boards, please dispose of the ones in the panel.
 >
-> If you purchased upgraded sensors, you will have two sets of sensor boards and lenses. The longer lenses belong to the PAW3395 boards.
+> If you purchased the upgraded PAW3395 sensors, you will have two sets of sensor boards and lenses. Use the longer lenses for the PAW3395 boards.
 
 ## Required from your side
 
