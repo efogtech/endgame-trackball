@@ -19,9 +19,8 @@ Red LED indicates bootloader state:
 
 <details>
 <summary>How to enter Device Firmware Upgrade (DFU) mode?</summary>
-Double-click the reset button quickly. Connect to the PC with the USB cable. 
-The device should appear as a mass storage device.
-You can copy a new UF2 firmware file directly to the root folder of the device.
+Double-click the reset button quickly. Connect to the PC with the USB cable (may already be connected). 
+You should see a new mass storage device. Copy the new UF2 firmware file directly to the root folder of the device, without renaming, replacing or anything else.
 Wait for it to eject itself. That's it!
 </details>
 
