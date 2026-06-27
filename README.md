@@ -50,8 +50,8 @@ Available on the website: https://efog.tech/docs/keymap (or in the PDF directory
 | Wired connectivity            | ✅    |      |
 | High polling rate (USB/BLE)   | ✅    |      |
 | Runtime rate limiting         | ✅    |      |
-| Buttons configuration         | ✅    | in ZMK Studio |
-| Wheels configuration          | ✅    | in ZMK Studio |
+| Buttons configuration         | ✅    | with ZMK Studio |
+| Wheels configuration          | ✅    | with ZMK Studio |
 | Twist scroll                  | ✅    |      |
 | Drag scroll                   | ✅    |      |
 | Fast charging                 | ✅    |      |
@@ -59,7 +59,7 @@ Available on the website: https://efog.tech/docs/keymap (or in the PDF directory
 | Vibration                     | ✅    |      |
 | Sleep                         | ✅    |      |
 | 2.4 GHz dongle (≤1000 Hz)     | ✅    |      |
-| 2.4 GHz dongle (8000 Hz)      | ⏳    | planned     |
+| 2.4 GHz dongle (8000 Hz)      | ⏳    | planned for 2027     |
 
 ## FAQ
 Please see [FAQ.md](./FAQ.md).
